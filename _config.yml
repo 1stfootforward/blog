@@ -1,9 +1,9 @@
-title:            Notepad
-description:      "Blogging is fun"
-logo:             logo.png
-disqus_shortname: hmfaysal
-share:            true
-dropcap:			true
+title:            1st Foot Forward Fitness
+description:      "Blog"
+logo:             2logo.png
+disqus_shortname: heather
+share:            false
+dropcap:			false
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
@@ -39,7 +39,7 @@ links:
   - title: About
     url: /about
 
-    
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Pacific/Auckland

@@ -31,7 +31,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: http://www.1stfootforward.co.nz
+    url: /
     external: true
     icon: home
   - title: Blog

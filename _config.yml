@@ -11,18 +11,15 @@ url:        	  /blog
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Heather James
+  avatar:         avatar.png
+  email:          heather@1stfootforward.co.nz
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Certified Personal Trainer
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  facebook:       heather james
+
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
@@ -34,18 +31,16 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: /
-    external: false
+    url: 1stfootforward.co.nz
+    external: true
     icon: home
-  - title: Featured Posts
-    url: /featured
-  - title: Categories
-    url: /categories
+  - title: Blog
+    url: /
   - title: About
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Pacific/Auckland
 future:      true
 highlighter: pygments
 markdown:    kramdown

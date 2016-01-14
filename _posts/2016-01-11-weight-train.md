@@ -29,7 +29,7 @@ When you train cardio when you stop and your heart rate comes downs you stop bur
 In addition to burning calories will help your body burn more fat overall, this is because when we weight train at high intensity we will continue to burn fat after we finish for various reasons including oxygen deficits, metabolic changes and hormones. It's important to remember though weight training will burn fat and in turn build lean muscle which weighs more than fat although doesn't take up much room so although you will see yourself slimmer in the mirror there may not be in change on the scales.
 Remember Strong is the new skinny!
 
-![Rack]({{ site.url }}/images/w1.jpg)
+![Rack]({{ site.url }}/images/1w.jpg)
 
 ##YOU CAN SEE PERSONAL GROWTH 
 This is exactly why I love weight training, you can see and feel the changes within your body

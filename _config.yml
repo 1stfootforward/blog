@@ -18,7 +18,6 @@ owner:
   description:    Certified Personal Trainer
   # Social networking links used in footer. Update and remove as you like.
   facebook:       heather james
-
   # For Google Authorship https://plus.google.com/authorship
 
 # Analytics and webmaster tools stuff goes here
@@ -38,8 +37,6 @@ links:
     url: /
   - title: About
     url: /about
-
-
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Pacific/Auckland
@@ -148,7 +145,6 @@ prose:
           element: "checkbox"
           label: "Comments"
           value: false
-
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

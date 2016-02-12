@@ -46,7 +46,8 @@ markdown:    kramdown
 paginate:    10
 paginate_path: "page:num"
 
-
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
 
 kramdown:
   auto_ids: true

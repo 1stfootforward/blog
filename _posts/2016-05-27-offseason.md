@@ -14,7 +14,7 @@ featured: true
 
 Although Lifting weights during on season could seem like an impossible task here are some tips to help you out.
 
-![Weightlifting During Your Sport Season]({{ site.url }}/images/molly/molly1-min.png)
+
 
 #### The Benefits of Weight Training During On Season
 
@@ -26,7 +26,7 @@ Although Lifting weights during on season could seem like an impossible task her
 - **Gain Muscle Endurance**
 
 
-
+![Weightlifting During Your Sport Season]({{ site.url }}/images/aw.png)
 
 #### Timing 
 Getting the timing right it crucial when weight training during on season as you don’t want it to affect your training or game, have one recovery between each session for example if you play your game on a Saturday and have Practice on a Thursday Night I would recommend lifting on a Monday.

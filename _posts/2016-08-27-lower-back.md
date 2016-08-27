@@ -12,9 +12,9 @@ chart:
 featured: true
 ---
 
-One of the most common problems my clients have is lower back pain........
+One of the most common problems my clients have is lower back pain.
 
-In the modern world we find ourselves hunched over looking at our devices and while this can contribute to the problem, it may just be bad posture that is causing lower back pain.
+There are many contributing factors, that may lead to back pain or poor posture. In the modern world, we spend more of our day seated rather than standing or moving, with our bodies locked into the same position for hours on end. Mobile devices in particular often lead people to hunch over. This can place excess pressure on the lower back.
 
 Posture plays a major role when it comes to back problems and by strengthening your core and stretching on a daily basis, at the right time and in the right way, this will significantly improve, if not completely remove all back pain.
 
@@ -24,7 +24,7 @@ Below are some easy to remember Lower Back Stretches I recommend you add too you
 
 In the morning as soon as you wake or before exercising, it is important to preform Dynamic Stretches, as these warm up your muscles, gearing them up, ready for the day.
 
-Hold these each position for no more than 5 secs.
+Hold each position for no more than 5 seconds.
 
 ### Stretch 1 SIDE KNEE LIFT
 
@@ -49,9 +49,9 @@ TIP – Brace your abdominal muscles to help with balance and to support your ba
 
 ## STATIC STRETCHES
 
-At night before bed and also after exercising, it is important to preform Static stretches.
+At night before bed and also after exercising, it is important to preform static stretches.
 
-When we train and move through variable tasks during the day, we shorten our muscles by performing static stretches - these help in lengthening our muscles back.
+When we train and move through variable tasks during the day, we shorten our muscles, so when we perform static stretches, it aids in lengthening the muscles back.
 
 Always hold these stretches for 30 seconds 
 
@@ -61,17 +61,17 @@ Lunge forward – making sure technique is followed.
 
 Squeezing your glutes and bracing your abdominal muscles slowly, then slightly tilt your back backwards. 
 
-As you get more flexible you will be able to tilt further, ease into this exercise by moving slowly.
+As you get more flexible you will be able to tilt further - always ease into it by moving slowly.
 
 ![Tilted Lunge]({{ site.url }}/images/lower-back/3.JPG)
 
 ### Stretch 4 THE PRONE PLANK
 
-Exactly like the exercise, the Plank is fantastic for your lower back but can also be dangerous if not performed properly. This is  used mainly as a Core exercise although as I mentioned earlier, the importance of Strengthening your Core will significantly help lower back pain. That is why I have added the plank to this routine.
+Exactly like the exercise, the Plank is fantastic for your lower back but can also be dangerous if not performed properly. This is  used mainly as a core exercise although as I mentioned earlier, strengthening your core will significantly help lower back pain and this is why I have added the Plank to this routine.
 
 By squeezing your glutes and pulling your belly button towards your spine and keeping your hips down, you can create a flat back.
 
-TIP – Only hold the Plank for 5 seconds at a time to start, and as you get stronger you will be able to hold it for longer (you should only ever feel the plank in your Abdominal muscles not your lower back.)
+TIP – Only hold the Plank for 5 seconds at a time to start, and as you get stronger you will be able to hold it for longer (you should only ever feel the plank in your abdominal muscles not your lower back.)
 
 ![Prone Plank]({{ site.url }}/images/lower-back/4.JPG)
 

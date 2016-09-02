@@ -5,7 +5,7 @@ description: Solutions for lower back pain
 headline: "Lower Back Pain"
 modified: 2016-08-27
 category: rehab
-tags: [rehab, streach]
+tags: [rehab, stretch]
 imagefeature: lower-back.JPG
 mathjax: 
 chart:

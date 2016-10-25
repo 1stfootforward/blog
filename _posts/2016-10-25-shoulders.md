@@ -3,7 +3,7 @@ layout: post
 title: "Solutions for Tight Shoulders"
 description: Solutions for Tight Shoulders
 headline: "Solutions for Tight Shoulders"
-modified: 2016-10-20
+modified: 2016-10-25
 category: rehab
 tags: [rehab, Stretch]
 imagefeature: shoulders.jpg

@@ -20,6 +20,7 @@ featured: true
     }
 
     .bg-img img {
+    		max-width: initial!important;
     	 -webkit-background-size: cover!important;
 		  -moz-background-size: cover!important;
 		  -o-background-size: cover!important;

@@ -3,7 +3,7 @@ layout: post
 title: "Superhero Workouts"
 description: Collection of workouts Actors used to prepare for their roles as superhero's
 headline: "Superhero Workouts"
-modified: 2011-11-09
+modified: 2016-11-09
 category: Weight-training
 tags: [Weight-training, Fun, Blogroll]
 imagefeature: comic.jpg
@@ -79,7 +79,7 @@ Unlike some of the other actors on this list, Chris Hemsworth was already in gre
 
 ![Batman (Ben Affleck))]({{ site.url }}/images/superhero/batman.jpg)
 
-####   [PopWorkout's Batman (Ben Affleck) Workout](PopWorkout's Batman (Ben Affleck) Workout)
+####   [PopWorkout's Batman (Ben Affleck) Workout](https://www.popworkouts.com/ben-affleck-batman-workout/)
 
 Ben Affleck's transformation for his role as Batman is probably the most dramatic change on this list. This workout routine is intense, as Affleck needed to quickly gain both size, and drop body fat, while also developing the strength and fitness needed for the role .
 

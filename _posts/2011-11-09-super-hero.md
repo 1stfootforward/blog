@@ -19,6 +19,11 @@ featured: true
         display: none!important;
     }
 
+    .modify .notepad-post-title h1{
+
+        display: none!important;
+    }
+
     .bg-img img {
     	 -webkit-background-size: cover!important;
 		  -moz-background-size: cover!important;

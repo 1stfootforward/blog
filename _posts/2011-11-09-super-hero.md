@@ -35,11 +35,11 @@ featured: true
 
 ### Superhero Workouts
 
-Superhero movies are all the rage at the moment, with many a blog, magazine or newspaper article written every time we learn a new actor will be taking on a superhero role. The physical transformations actors go through can be both dramatic and inspirational. I've waded through the most popular superhero workouts to bring you the best of the best. Check out these blog posts to find yourself a **Super Workout.**
+Superhero movies are all the rage at the moment, with many a blog, magazine or newspaper article written every time we learn a new actor will be taking on a superhero role. The physical transformations actors go through can be both dramatic and inspirational. I've waded through the most popular superhero workouts to bring you the best of the best. Check out these blog posts to find yourself a **Super Workout!**
 
 ![Wonder Woman's - Gal Gadot]({{ site.url }}/images/superhero/wonder-woman.jpg)
 
-####   [muscleandfitness.com's Wonder Woman's ( Gal Gadot ) Workout ](http://www.muscleandfitness.com/workouts/workout-routines/wonder-woman-workout)
+####   [MuscleandFitness.com's Wonder Woman's ( Gal Gadot ) Workout ](http://www.muscleandfitness.com/workouts/workout-routines/wonder-woman-workout)
 
 Gal Gadot's switch from fashion model to amazonian wonder woman was a serious challenge. Gal started where most of us do, unable to perform a single pull-up. This workout is great for people just starting out.
 

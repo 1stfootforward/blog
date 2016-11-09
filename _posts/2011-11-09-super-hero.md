@@ -21,7 +21,7 @@ featured: true
 
     .modify .notepad-post-title h1{
 
-        display: none!important;
+        display: block!important;
     }
 
     .bg-img img {

@@ -6,7 +6,7 @@ headline: "The importance of a strong neck"
 modified: 2017-04-03
 category: Rehab
 tags: [Strength, Health, Neck injury, Contact Sport, Exercise, Prevention of Brain Trauma, Concussion]
-imagefeature: neckpain.jpg
+imagefeature: neckblogpic2.jpg
 mathjax: 
 chart:
 featured: true

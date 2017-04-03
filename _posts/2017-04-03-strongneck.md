@@ -18,7 +18,7 @@ featured: true
 
 </style>
 
-####Concussion & Contact Sports
+#### Concussion & Contact Sports
  
 Concussion is a very hot topic in the news lately, especially after the film Concussion starring Will Smith came out. Also Last year Otago University ran a study about the connection between neck strength and concussion. They used the Otago Rugby team to conduct their tests, read about it here www.otago.ac.nz>publicpost 
 Contact sport players are more at risk of getting a concussion, whilst kids and teens are most at risk. Imagine the pressure on your neck and head as you perform a header in soccer, getting hit in the head during boxing or martial arts and tackled at full force on the Rugby field.
@@ -32,38 +32,38 @@ Having a stronger neck is also greatly needed to reduce the risk of neck injury,
 
 ![in the boxing ring]({{ site.url }}/images/neckpics/neckblogpic3.jpg)
 
-### Below are some stretches for the neck
+## Below are some stretches for the neck
 
 ![neck stretches]({{ site.url }}/images/neckpics/neckpic4.jpg)
 
-## Chin to chest
+# Chin to chest
 Looking straight ahead, keeping your jaw closed slowly bring your chin to your chest. You may not be able to reach your chest straight away, it will come keep trying
     
-## Chin to Sky
+# Chin to Sky
 Looking straight ahead, keeping jaw closed, slowly tilt your head back, until your chin is pointing to the sky
 
-## Neck Circles
+# Neck Circles
 Facing straight ahead, slowly move your head in a circular motion
 
 ## After stretching, below are some strengthening neck exercises,
-## I advise you to seek extra help if you are not confident doing these on your own.
 
-## DB Shrugs
+
+# DB Shrugs
 Standing with your feet shoulder width apart, feet pointing forward. Holding your core and glutes braced to protect your back. Holding a DB in each hand, arms straight down side of body.
 Slowly raise your shoulders towards the ceiling back down and repeat making sure the shoulders don't go forwards or back.
 
 ![db shrug]({{ site.url }}/images/neckpics/neckbpic5.png)
 
-## Face down plate resistance
+# Face down plate resistance
 Lie on the floor or bench on you stomach, place a weighted plate on the back of your head, holding onto it for support. Lift you head of the ground slowly, bringing chin up, then slowly back to the ground repeat.
 
 ![plate resistance]({{ site.url }}/images/neckpics/neckpic6.png)
 
-## Front raise
+# Front raise
 Standing with your feet shoulder width apart, feet pointing forward. Holding your core and glutes braced to protect your back. Hold a DB in each hand, arms straight in front of your body, bring your arms up until parallel to the floor, then lower, repeat.
 
 ![Front raise]({{ site.url }}/images/neckpics/neckpic7.png)
 
-
+# I advise you to seek extra help if you are not confident doing these on your own.
 
 

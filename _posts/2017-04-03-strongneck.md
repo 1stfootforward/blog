@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The importance of a strong neck"
+title: "Concussion & Contact Sports"
 description: Strong Neck
-headline: "The importance of a strong neck"
+headline: "Concussion & Contact Sports"
 modified: 2017-04-03
 category: Rehab
 tags: [Strength, Health, Neck injury, Contact Sport, Exercise, Prevention of Brain Trauma, Concussion]
@@ -18,7 +18,10 @@ featured: true
 
 </style>
 
-#### The Importance of a strong neck
+####Concussion & Contact Sports
+ 
+Concussion is a very hot topic in the news lately, especially after the film Concussion starring Will Smith came out. Also Last year Otago University ran a study about the connection between neck strength and concussion. They used the Otago Rugby team to conduct their tests, read about it here www.otago.ac.nz>publicpost 
+Contact sport players are more at risk of getting a concussion, whilst kids and teens are most at risk. Imagine the pressure on your neck and head as you perform a header in soccer, getting hit in the head during boxing or martial arts and tackled at full force on the Rugby field.
 Heading into contact sport season it is especially important for you and your children to be as prepared as possible when it comes to having a strong neck!
 
 ![GIRL RUGBY TEAM]({{ site.url }}/images/neckpics/neckblogpic2.jpg) 

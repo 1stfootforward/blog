@@ -6,7 +6,7 @@ headline: "Common Cooking Mistakes"
 modified: 2017-04-07
 category: Nutrition
 tags: [Health, wellbeing, nutrition, meal plan, Diet, Cooking at home]
-imagefeature:cookingmistakes1.jpeg
+imagefeature: cookingmistakes1.jpeg
 mathjax: 
 chart:
 featured: true

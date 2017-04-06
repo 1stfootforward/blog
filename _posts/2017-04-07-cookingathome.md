@@ -3,10 +3,10 @@ layout: post
 title: "Common Cooking Mistakes"
 description: cooking at home
 headline: "Common Cooking Mistakes"
-modified: 2017-04-06
+modified: 2017-04-07
 category: Nutrition
 tags: [Health, wellbeing, nutrition, meal plan, Diet, Cooking at home]
-imagefeature: cookmain.jpg
+imagefeature: cookingmistakes1.jpeg
 mathjax: 
 chart:
 featured: true

@@ -14,7 +14,13 @@ featured: true
 
 <style>
 
+	
 
+		.post-template .notepad-post-content > div:not(.notepad-post-title) p:first-child {
+
+			    font-size: 1rem;
+		
+	}
 
 </style>
 

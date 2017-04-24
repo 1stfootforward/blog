@@ -32,7 +32,7 @@ Like nuts, seeds are a vital part of our diet. Seeds are high in fiber, vitamin 
 Flax seeds are believed to be the worlds, first cultivated superfood. They are known for a number of health benefits including improving digestion, clearing the skin, lowering cholesterol, balancing hormones and promoting weight loss. Also, known as linseeds they are a small brown, tan – golden coloured seeds. They are the richest source of omega-3 fatty acids (ALA)
 
  Nutrition Facts
- 
+
 Just by adding 3Tbsp. of flax seeds to your smoothies, soup, water, or meal will enrich your diet with these nutrients.
 Omega-3 (ALA) 6339 mg
 Fiber – 8 g 
@@ -42,24 +42,23 @@ Also contains a good amount of vitamin B6, iron, potassium, copper and zinc
 ![flaxseeds]({{ site.url }}/images/Superseed/flaxseeds.jpg)
 
 
-# Benefits
+## Benefits
 
-+	 High in Fiber, low in carbohydrates
+*	High in Fiber, low in carbohydrates
 
 	One of the most extraordinary benefit of flax seeds is that they contain high levels of mucilage gum content. Mucilage is a gel-forming fiber that is water soluble which has incredible benefits in the intestinal tract. The mucilage can keep food in the stomach from emptying to quickly into the small intestine, which can increase nutrient absorption. Also, flax seeds are extremely high in both soluble and insoluble fiber which supports colon detoxification, fat loss and reduce sugar cravings.
 	Women should aim to get between 20 g – 30 g a day of fiber
 
-+	 Healthy skin and hair
+*	 Healthy skin and hair
 
 	Just be adding 2 tsp of Flax seeds to your morning smoothie, will help your skin and hair appear and be healthier looking which is important for most women. The ALA fats that are in flax seeds benefits the skin and hair by providing essential fats as well as b vitamins, which will help reduce flakiness and dryness. It can also improve symptoms on acne and eczema.
 
-+	 Weight Loss
+*	 Weight Loss
 
 	There have been a few studies over the years about the benefits of including Flax seeds in your diet to promote weight loss. Since flax seeds is full of healthy fats and fiber making you feel fuller / satisfied for longer. ALA fats also help reduce inflammation, this is important as an inflamed body is more likely to store and hold extra weight.
 
-+	 Digestive Health
-
-	Flax seeds have the ability to promote good digestive health. The ALA in Flax seeds can help protect the lining of the digestive tract and maintain good health. It is having been shown to be beneficial for people suffering from Chron’s disease or other digestive alignments, and it can help reduce gut inflammation. Just by adding 2 tsp of flaxseed oil into a glass of carrot juice will help relieve constipation
+* **Digestive Health**
+Flax seeds have the ability to promote good digestive health. The ALA in Flax seeds can help protect the lining of the digestive tract and maintain good health. It is having been shown to be beneficial for people suffering from Chron’s disease or other digestive alignments, and it can help reduce gut inflammation. Just by adding 2 tsp of flaxseed oil into a glass of carrot juice will help relieve constipation
 
 ![flaxmeal]({{ site.url }}/images/Superseed/flaxground.jpg)
 

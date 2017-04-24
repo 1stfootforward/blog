@@ -29,7 +29,7 @@ featured: true
 
 </style>
 
-## Seeds Seeds Seeds
+## Seeds Seeds Seeds. 
 
 Like nuts, seeds are a vital part of our diet. Seeds are high in fiber, vitamin E and monounsaturated fats that can help keep our heart healthy and our body disease free. Healthy seeds are also great sources of protein, minerals, zinc and other life-enhancing nutrients. My two favourite seeds that I add to my food are Flax seeds and Chia seeds, below is all the information you need!
 

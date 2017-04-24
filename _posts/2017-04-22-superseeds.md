@@ -42,7 +42,7 @@ Like nuts, seeds are a vital part of our diet. Seeds are high in fiber, vitamin 
 
 Flax seeds are believed to be the worlds, first cultivated superfood. They are known for a number of health benefits including improving digestion, clearing the skin, lowering cholesterol, balancing hormones and promoting weight loss. Also, known as linseeds they are a small brown, tan – golden coloured seeds. They are the richest source of omega-3 fatty acids (ALA)
 
- Nutrition Facts
+##### Nutrition Facts
 
 Just by adding 3Tbsp. of flax seeds to your smoothies, soup, water, or meal will enrich your diet with these nutrients.
 Omega-3 (ALA) 6339 mg

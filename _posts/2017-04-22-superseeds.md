@@ -20,11 +20,16 @@ featured: true
 
 			    font-size: 1rem;
 		
-	}
+		}
+
+		.notepad-post-title h1{
+
+        	color: #e51843;
+    	}
 
 </style>
 
-#### Seeds Seeds Seeds
+## Seeds Seeds Seeds
 
 Like nuts, seeds are a vital part of our diet. Seeds are high in fiber, vitamin E and monounsaturated fats that can help keep our heart healthy and our body disease free. Healthy seeds are also great sources of protein, minerals, zinc and other life-enhancing nutrients. My two favourite seeds that I add to my food are Flax seeds and Chia seeds, below is all the information you need!
 
@@ -91,30 +96,30 @@ One of the characteristics that make chia so unique is that it can absorb up to 
 * **Dental Health** With chia seeds being packed with calcium, phosphorus, Vitamin A and zinc, it’s no wonder that they are a top food to help your teeth! Calcium is the building block of your teeth and necessary for tooth health. Zinc prevents tarter by keeping plaque from mineralizing onto your teeth and has an antibacterial effect that keeps bad breath germs away. Vitamin A and phosphorus are also important for strong teeth and a healthy mouth.
 
 
-# How to Eat Chia Seeds
+## How to Eat Chia Seeds
 
 Chia seeds have a mild nutty taste and can easily be added to most dishes as a garnish, yet chewing small seeds like flax or chia generally doesn’t make the omega-3’s and other nutrients readily available for digestion and assimilation. The best way to access their vitamins and minerals is to either grind or soak them.
 
-# Raw vs. Soaking
+## Raw vs. Soaking
 
 There seems to be much debate as to whether you need to soak chia seeds before eating. It won’t hurt to eat them straight, but if you soak them, then you “sprout” them and it releases the “enzyme inhibitors” that are used to protect the seed. One, this makes it much easier to digest, and two, your body can then access the dense nutrients inside the seeds. In my opinion, you always want to get the most nutrition out of any food that you eat, so I prefer soaking them before adding them to my recipe or smoothie, if possible. Either way, they are still an excellent source of nutrition!
 
 ![chiasoak]({{ site.url }}/images/Superseed/chiasoak.jpg)
 
 
-# How to Soak
+## How to Soak
 
 To soak chia seeds, simply mix them in a 1:10 ratio chia to water. That’s about 1.5 tablespoons chia seeds in one cup of water. It does not have to be exact, but you do want it to gel all the way and not be too watery. Then let them sit for about 30 minutes to 2 hours.
 Since chia seeds can hold up to 12 times its weight in water, they are wonderful to prevent dehydration. However, if you choose not to soak them, then they can also absorb water from you during digestion.  So, make sure to drink plenty of water throughout the day to keep your body hydrated.
 
-# Ground
+## Ground
 
 Another option is to grind chia seeds in a coffee grinder to break down the hard-outer shell before eating them. When pulverized, chia seed flour can be used in most gluten-free recipes like pancakes, muffins, breads and even pastas. When grinding omega-3 rich seeds, however, it is important to store them in a sealed, glass container in your refrigerator or freezer.
 
 ![chiagrind]({{ site.url }}/images/Superseed/grindchia.jpg)
 
 
-# Whole
+## Whole
 
 Unlike flaxseeds, you do not have to grind chia seeds to access their nutrition. You can eat them whole and still get their “energy-packed” punch! You can even just eat a spoonful straight – but beware – they do tend to stick in your teeth!
 

@@ -5,7 +5,7 @@ description: benefits of eating seeds
 headline: "Super Seeds"
 modified: 2017-04-22
 category: Nutrition
-tags: [Health, wellbeing, nutrition, meal plan, Diet, Superfood, Flax seeds, Chia Seeds]
+tags: [Health, wellbeing, nutrition, meal plan, Diet]
 imagefeature: Superseeds.JPG
 mathjax: 
 chart:
@@ -24,7 +24,7 @@ featured: true
 
 		.notepad-post-title h1{
 
-        	color: #e51843;
+        	color: #e51843!important;
     	}
 
 </style>

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Probioctics vs Prebioctics"
+title: "Probiotics & Prebiotics"
 description: How both work together to create good health 
-headline: "Probioctics vs Prebioctics"
+headline: "Probiotics vs Prebiotics"
 modified: 2017-04-29
 category: Nutrition
 tags: [Health, wellbeing, nutrition, meal plan, Diet]
-imagefeature: Probioctics-Prebioctics.jpg
+imagefeature: Probiotics-Prebiotics.jpg
 mathjax: 
 chart:
 featured: true
@@ -29,11 +29,11 @@ featured: true
 
 </style>
 
-## Probioctics vs Prebioctics. 
+## Probiotics & Prebiotics. 
 
 ### Probiotics
 
-Probiotics are live bacteria and yeasts that are good for your health, especially your digestive system. We usually think of bacteria as something that causes diseases. But your body is full of bacteria, both good and bad. Probiotics are often called "good" or "helpful" bacteria because they help keep your gut healthy.
+Are live bacteria and yeasts that are good for your health, especially your digestive system. We usually think of bacteria as something that causes disease. But your body is full of bacteria, both good and bad. Probiotics are often called "good" or "helpful" bacteria because they help keep your gut healthy.
 Probiotics are naturally found in your body. You can also find them in some foods and supplements.
 
 ![good food source for probiotics]({{ site.url }}/images/probiotic-prebotic/preandpro1.jpg)
@@ -43,17 +43,18 @@ Probiotics are naturally found in your body. You can also find them in some food
 +	When you lose "good" bacteria in your body (like after you take antibiotics, for example), probiotics can help replace them.
 +	They can help balance your "good" and "bad" bacteria to keep your body working like it should.
 +	Probiotics help move food through your gut.
-+	Help prevent Irritable bowel syndrome, Inflammation and diarrhea
++	Help prevent Irritable bowel syndrome, Inflammation and diarrhoea
 
 ![homemade yohurt]({{ site.url }}/images/probiotic-prebotic/preandpro5.jpg)
 
 #### Types of Probiotics
 
-Many types of bacteria are classified as probiotics. They all have different benefits, but most come from two groups. Ask your doctor about which might best help you.
+Many types of bacteria are classified as probiotics. They all have different benefits, but most come from two groups. Ask your pharmacy about which might best help you.
 
 #### Lactobacillus. 
 
-This may be the most common probiotic. It’s the one you’ll find in yoghurt and other fermented foods. Different strains can help with diarrhea and may help with people who can’t digest lactose, the sugar in milk.
+This may be the most common probiotic. It’s the one you’ll find in yoghurt and other fermented foods. Different strains can help with diarrhea and may help with people who can’t digest lactose - the sugar in milk.
+
 #### Bifidobacterium.
 
 You can also find it in some dairy products. It may help ease the symptoms of irritable bowel syndrome (IBS) and some other conditions.
@@ -69,14 +70,10 @@ In general, probiotic foods and supplements are thought to be safe for most peop
 
 ### Prebiotics
 
-By definition, Prebiotics is a type of non-digestible fiber compound. Just like other high fiber foods, prebiotic compounds — including the kind found in foods like garlic, artichokes, dandelion greens and onions since the human body can’t fully break them down. Once they pass through the small intestine, they reach the colon, where they’re fermented by the gut microflora.
-Prebiotics are best known as a type of fiber called “oligosaccharides.”
-
-![onions garlic and leeks]({{ site.url }}/images/probiotic-prebotic/preandpro7.jpg) 
-
-Originally, prebiotics wasn't classified as fiber compounds, but recently research has shown us that these compounds behave the same way as other forms of fiber. Today, prebiotic carbohydrates that have been evaluated in humans largely consist of Fructans or Galatians, both of which are fermented by anaerobic bacteria in the large intestine.
+Originally, prebiotics weren't classified as fiber compounds, but recently research has shown us that these compounds behave the same way as other forms of fiber. Today, prebiotic carbohydrates that have been evaluated in humans largely consist of Fructans or Galatians, both of which are fermented by anaerobic bacteria in the large intestine.
 As prebiotics make their way through the stomach without being broken down by either gastric acids or digestive enzymes, they bring about positive changes in the digestive tract and organs. Essentially, prebiotic compounds become nutrient sources, or “fuel,” for the beneficial bacteria that live in your gut.
  
+ ![onions garlic and leeks]({{ site.url }}/images/probiotic-prebotic/preandpro7.jpg) 
 
 Higher intakes of prebiotics are linked to benefits, including:
  
@@ -96,7 +93,7 @@ Higher intakes of prebiotics are linked to benefits, including:
 
 ### How Prebiotics Work Together with Probiotics to Improve Health
 
-While probiotic benefits have become more widely known in recent years, especially with the growing popularity of fermented foods like sauerkraut, kombucha and kimchi, prebiotics still remains under the radar. All types of fibre that we get from eating whole, plant foods play a major role in nutrient absorption, gut and digestive health. Prebiotics, together with probiotics, open the door for heightened levels of health in general, so nearly everyone can afford to include them in their diets more often.
+All types of fibre that we get from eating whole, plant foods play a major role in nutrient absorption, gut and digestive health. Prebiotics, together with probiotics, open the door for heightened levels of health in general, so nearly everyone can afford to include them in their diets more often.
 Most people are aware by now that foods that offer dietary fibre and probiotics have a long list of health benefits, but nonetheless, prebiotic foods are still mostly underappreciated. By in large, most people don’t consume enough Prebiotics every day — and, sadly, the result can aggravate indigestion, higher levels of inflammation, lower immune function, higher likelihood of weight gain and a raised risk for various chronic diseases.
 While probiotic foods are essential for gut health and overall well-being, prebiotics help “feed” probiotics. By pairing them together, you can achieve an even better result
 
@@ -108,12 +105,12 @@ Because the health of our gut is closely tied to many other bodily functions, pr
 
 #### Top foods and how to incorporate them into your diet.
  
-Raw Dandelion greens – chopped and used like parsley as a garnish
-Raw Leeks – finely sliced added to salads
-Under-ripe bananas
-Raw Asparagus – Fermented
-Raw or Cooked onions – Salads or salad dressings
-Raw garlic – Dips like Hummus
+Raw Dandelion greens – chopped and used like parsley as a garnish,
+Raw Leeks – finely sliced added to salads,
+Under-ripe bananas,
+Raw Asparagus – Fermented,
+Raw or Cooked onions – Salads or salad dressings,
+Raw garlic – Dips like Hummus.
 
 
  ![raw onion and garlic]({{ site.url }}/images/probiotic-prebotic/preandpro3.jpg)

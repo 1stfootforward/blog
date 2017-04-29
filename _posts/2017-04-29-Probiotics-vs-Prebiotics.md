@@ -43,7 +43,7 @@ Probiotics are naturally found in your body. You can also find them in some food
 +	When you lose "good" bacteria in your body (like after you take antibiotics, for example), probiotics can help replace them.
 +	They can help balance your "good" and "bad" bacteria to keep your body working like it should.
 +	Probiotics help move food through your gut.
-+	Help prevent Irritable bowel syndrome, Inflammation and diarrhoea
++	Also help prevent Irritable bowel syndrome, Inflammation and diarrhoea
 
 ![homemade yohurt]({{ site.url }}/images/probiotic-prebotic/preandpro5.jpg)
 
@@ -53,7 +53,7 @@ Many types of bacteria are classified as probiotics. They all have different ben
 
 #### Lactobacillus. 
 
-This may be the most common probiotic. It’s the one you’ll find in yoghurt and other fermented foods. Different strains can help with diarrhea and may help with people who can’t digest lactose - the sugar in milk.
+This may be the most common probiotic. It’s the one you’ll find in yoghurt and other fermented foods. Different strains can help with diarrhoea and may help with people who can’t digest lactose - the sugar in milk.
 
 #### Bifidobacterium.
 
@@ -61,7 +61,7 @@ You can also find it in some dairy products. It may help ease the symptoms of ir
  
 #### Probiotic supplements
 
-In general, probiotic foods and supplements are thought to be safe for most people, though some people with immune system problems or other serious health conditions shouldn't take them. Talk to your doctor first to make sure they're OK for you. In some cases, mild side effects might include upset stomach, diarrhea, gas, and bloating for the first couple of days after you start them. They may also trigger allergic reactions. Stop taking them and talk to your doctor if you have problems.
+In general, probiotic foods and supplements are thought to be safe for most people, though some people with immune system problems or other serious health conditions shouldn't take them. Talk to your doctor first to make sure they're OK for you. In some cases, mild side effects might include upset stomach, diarrhoea, gas, and bloating for the first couple of days after you start them. They may also trigger allergic reactions. Stop taking them and talk to your doctor if you have problems.
 
 
 

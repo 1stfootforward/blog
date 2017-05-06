@@ -92,7 +92,11 @@ Extend one arm in front of your with the palm facing down. Point your hand at th
 
 ##### Once you are no longer in pain it’s important to strengthen your wrists to avoid re-injurying them and to look after them so you can live a better life
 
+
+
 #### Wrist Strengthening Exercises
+
+
 
 #### Wrist Curls
 
@@ -110,7 +114,7 @@ Perform this exercise with a stick that has a rope attached to the middle, and a
 Perform this with dumbbells. Sit on a bench or chair and rest your forearms on your knees. Hold the dumbbells with an underhand grip so that your palms face up. Keeping your forearms on your knees, rotate the dumbbells inside until your palms are facing down.
 Preform each exercise for 8 repetitions and 3 sets
 
-## Don't let your wrists and forearms be your weak link. Take the time to develop them. It will pay off in more ways than you may realize.
+### Don't let your wrists and forearms be your weak link. Take the time to develop them. It will pay off in more ways than you may realize.
 
 ![wrist stretch on floor]({{ site.url }}/images/wrist-strength/strongwrists.jpg)
 

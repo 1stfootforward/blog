@@ -32,7 +32,6 @@ featured: true
 ## Strengthening Your Wrists
 
 
-![inflamed wrist xray]({{ site.url }}/images/wrist-strength/wrist-pain.jpg)
 
 Wrist’s aren't necessarily high on the list of muscles that people like to “workout” most are more focused on their biceps, chest, abs, and so on. The forearms and wrists allow us to perform the exercises that develop and maximize those muscles. Therefore, it is imperative that we devote time and energy to optimize the strength of our hands, wrists, and forearms. 
 
@@ -114,7 +113,7 @@ Perform this exercise with a stick that has a rope attached to the middle, and a
 Perform this with dumbbells. Sit on a bench or chair and rest your forearms on your knees. Hold the dumbbells with an underhand grip so that your palms face up. Keeping your forearms on your knees, rotate the dumbbells inside until your palms are facing down.
 Preform each exercise for 8 repetitions and 3 sets
 
-### Don't let your wrists and forearms be your weak link. Take the time to develop them. It will pay off in more ways than you may realize.
+#### Don't let your wrists and forearms be your weak link. Take the time to develop them. It will pay off in more ways than you may realize.
 
 ![wrist stretch on floor]({{ site.url }}/images/wrist-strength/strongwrists.jpg)
 

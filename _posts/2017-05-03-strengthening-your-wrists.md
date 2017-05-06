@@ -90,9 +90,9 @@ Extend one arm in front of your with the palm facing down. Point your hand at th
 ![girl wrapping her wrists]({{ site.url }}/images/wrist-strength/wrapwrists.jpg)
 
 
-#### Once you are no longer in pain it’s important to strengthen your wrists to avoid re-injurying them and to look after them so you can live a better life
+##### Once you are no longer in pain it’s important to strengthen your wrists to avoid re-injurying them and to look after them so you can live a better life
 
-Wrist Strengthening Exercises
+#### Wrist Strengthening Exercises
 
 #### Wrist Curls
 

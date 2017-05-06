@@ -31,7 +31,6 @@ featured: true
 
 ## Strengthening Your Wrists
 
-### Strengthening Your Wrists
 
 ![inflamed wrist xray]({{ site.url }}/images/wrist-strength/wrist-pain.jpg)
 

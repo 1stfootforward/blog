@@ -29,7 +29,7 @@ featured: true
 
 </style>
 
-## Strengthening Your Wrists. 
+
 
 Wrist’s aren't necessarily high on the list of muscles that people like to “workout” most are more focused on their biceps, chest, abs, and so on. The forearms and wrists allow us to perform the exercises that develop and maximize those muscles. Therefore, it is imperative that we devote time and energy to optimize the strength of our hands, wrists, and forearms. 
 

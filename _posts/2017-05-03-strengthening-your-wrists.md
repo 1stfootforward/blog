@@ -31,14 +31,14 @@ featured: true
 
 
 
-Wrist’s aren't necessarily high on the list of muscles that people like to “workout” most are more focused on their biceps, chest, abs, and so on. The forearms and wrists allow us to perform the exercises that develop and maximize those muscles. Therefore, it is imperative that we devote time and energy to optimize the strength of our hands, wrists, and forearms. 
+Wrists aren't necessarily high on the list of muscles that people like to “workout” most are more focused on their biceps, chest, abs, and so on. The forearms and wrists allow us to perform the exercises that develop and maximize those muscles. Therefore, it is imperative that we devote time and energy to optimize the strength of our hands, wrists, and forearms. 
 
 ![inflamed wrist xray]({{ site.url }}/images/wrist-strength/wrist-pain.jpg)
 
 
 
 There are ten bones connected to the wrist joint. You’ve got the two coming in from your forearm (the radius on the thumb side and the ulna on the pinky side), and then eight coming in from the hand, which are called carpals.
-The bones and ligaments are supportive structures of course. But just as in anything, if they are not acclimated to the forces of vigorous, repetitive training, they will lack The resilience to withstand injury. As such, ligament sprain and bone stress fractures are common problems.
+The bones and ligaments are supportive structures of course. But just as in anything, if they are not acclimatised to the forces of vigorous, repetitive training, they will lack the resilience to withstand injury. As such, ligament sprain and bone stress fractures are common problems.
 Improving the capacity of our wrist bones and ligaments takes consistent, progressive, and patient work. 
 
 ![inside a wrist]({{ site.url }}/images/wrist-strength/wrist-1.jpg)
@@ -49,9 +49,9 @@ Steady strength training for the wrists can lead to significant results.
 There are quite a few wrist conditions (strains, sprains, tendonitis, bursitis, TFCC tears, stress fractures) that can be improved with proper wrist conditioning.
 
 The beginning of wrist conditioning work is ensuring you have the adequate wrist flexibility to perform your training safely. You want to be able to flex and extend your wrists to at least 90 degree angles without a lot of force for most training that loads your wrists.
-f your wrists can’t flex and extend properly, loading them with your bodyweight (or more) through training is like finding a stuck hinge and, instead of loosening it properly, just pushing harder and harder until something gives.
-There is also quite a bit of wrist strength-endurance needed to perform bodyweight exercise, especially in exercises involving some level of hand balancing. While the common recommendation for building wrist conditioning is to spend as much time on your hands as possible, you have to work up to it, especially if your wrists already hurt
-If your wrists are hurting you, you’re probably painfully aware of how much you depend on them. Sore wrists can make fun hand balancing moves look completely unreachable. Even a press up might seem out reach. 
+If your wrists can’t flex and extend properly, loading them with your bodyweight (or more) through training is like finding a stuck hinge and, instead of loosening it properly, just pushing harder and harder until something gives.
+There is also quite a bit of wrist strength-endurance needed to perform bodyweight exercise, especially in exercises involving some level of hand balancing. While the common recommendation for building wrist conditioning is to spend as much time on your hands as possible, you have to work up to it, especially if your wrists already hurt.
+If your wrists, already hurt you, you’re probably painfully aware of how much you depend on them. Sore wrists can make fun hand balancing moves look completely unreachable. Even a press up might seem out of reach. 
 
 #### Try out these flexibility wrist stretches to help ease your wrist pain and also to start getting them ready to be strengthened.
 
@@ -64,7 +64,7 @@ If your wrists are hurting you, you’re probably painfully aware of how much yo
 
 
 
-Complete each stretch 3 times holding each for at least 10 seconds per time, if your wrists hurt to much to preform these stretches, try resting your hands on a higher surface such as a table if this is still to hard start using a wall and gradually move towards the ground. Like I said earlier it takes patience to see results in your wrists especially if you have never strengthened or stretched them before.
+Complete each stretch 3 times holding each for at least 10 seconds per time, if your wrists hurt to much to perform these stretches, try resting your hands on a higher surface such as a table. If this is still too hard start using a wall and gradually move towards the ground. Like I said earlier it takes patience to see results in your wrists especially if you have never strengthened or stretched them before.
 
 
 
@@ -109,7 +109,7 @@ Perform this exercise with a stick that has a rope attached to the middle, and a
 
 #### Wrist Rotations
 Perform this with dumbbells. Sit on a bench or chair and rest your forearms on your knees. Hold the dumbbells with an underhand grip so that your palms face up. Keeping your forearms on your knees, rotate the dumbbells inside until your palms are facing down.
-Preform each exercise for 8 repetitions and 3 sets
+Perform each exercise for 8 repetitions and 3 sets
 
 #### Don't let your wrists and forearms be your weak link. Take the time to develop them. It will pay off in more ways than you may realize.
 

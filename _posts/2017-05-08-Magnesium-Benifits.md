@@ -35,11 +35,10 @@ Nearly every function of our bodies requires magnesium, it’s a critical co-fac
 Magnesium is one of the seven essential macro minerals, these are minerals that need to be consumed in relatively large amounts - at least 100 milligrams per day. The human body contains approximately 25 grams of magnesium. Over 50 percent of that magnesium is stored in the skeletal system, and the rest is found in muscle, soft tissues, and bodily fluids.
 
 
-!magnesium rich foods]({{ site.url }}/images/magnesium-benefits/magnesiumfoods.jpg)
+![magnesium rich foods]({{ site.url }}/images/magnesium-benefits/magnesiumfoods.jpg)
 
 
-
-The recommend daily intake recommended for women is 350 mg a day, however, you may need more so talk to you doctor about the amount you should be consuming. Magnesium is often forgotten about especially when we are on restricted diets or chasing different fitness goals.
+The recommended daily intake for women is 350 mg a day, however, you may need more so talk to you doctor about the amount you should be consuming. Magnesium is often forgotten about especially when we are on restricted diets or chasing different fitness goals.
 Have a read below to make sure you are including the right foods in your diet and aren't suffering from a magnesium deficiency.
 
 
@@ -65,7 +64,7 @@ Have a read below to make sure you are including the right foods in your diet an
 
 
 
-#####Talk to your Doctor if you think you may have a deficiency. A simple urine test can determine if you do.
+##### Talk to your Doctor if you think you may have a deficiency. A simple urine test can determine if you do.
 
 #### If you do have a deficiency, below is a list of foods that are rich in magnesium
 
@@ -91,7 +90,9 @@ Although having magnesium is great for you. However it's important you don’t h
 
 
 Too much magnesium from food sources does not pose a health risk to healthy individuals because the kidneys eliminate excess amounts in the urine. However, high doses of magnesium from dietary supplements or medications often result in diarrhea that can be accompanied by nausea and abdominal cramping. Forms of magnesium most commonly reported to cause diarrhea include magnesium carbonate, chloride, gluconate, and oxide. 
-Very large doses of magnesium-containing laxatives and antacids (typically providing more than 5,000 mg/day magnesium) have been associated with magnesium toxicity. Symptoms of magnesium toxicity, which usually develop after serum concentrations exceed 1.74–2.61 mmol/L, can include hypotension, nausea, vomiting, facial flushing, retention of urine, depression, and lethargy before progressing to muscle weakness, difficulty breathing, extreme hypotension, irregular heartbeat, and cardiac arrest. The risk of magnesium toxicity increases with impaired renal function or kidney failure because the ability to remove excess magnesium is reduced or lost. That’s whay it is super important to see you doctor for advice.
+Very large doses of magnesium-containing laxatives and antacids (typically providing more than 5,000 mg/day magnesium) have been associated with magnesium toxicity. Symptoms of magnesium toxicity, which usually develop after serum concentrations exceed 1.74–2.61 mmol/L, can include hypotension, nausea, vomiting, facial flushing, retention of urine, depression, and lethargy before progressing to muscle weakness, difficulty breathing, extreme hypotension, irregular heartbeat, and cardiac arrest. The risk of magnesium toxicity increases with impaired renal function or kidney failure because the ability to remove excess magnesium is reduced or lost. 
+
+That’s whay it is super important to see you doctor for advice.
 
  
 

@@ -30,7 +30,8 @@ featured: true
 </style>
 
 
-Magnesium is an extremely important nutrient that our bodies need to function properly. As our bodies can’t make the nutrient on its own we need to make sure we are getting it from our food. 
+Magnesium is an extremely important nutrient that our bodies need to function properly.
+ 
 Nearly every function of our bodies requires magnesium, it’s a critical co-factor in more than 300 enzymatic reactions within your system, including the metabolism of food, synthesis of fatty acids and proteins, and the transmission of nerve impulses.
 Magnesium is one of the seven essential macro minerals, these are minerals that need to be consumed in relatively large amounts - at least 100 milligrams per day. The human body contains approximately 25 grams of magnesium. Over 50 percent of that magnesium is stored in the skeletal system, and the rest is found in muscle, soft tissues, and bodily fluids.
 

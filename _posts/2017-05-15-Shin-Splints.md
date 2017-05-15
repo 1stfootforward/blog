@@ -54,7 +54,7 @@ The symptoms of compartment syndrome include leg pain, unusual nerve sensations,
  The most common site for shin splints is the medial area (the inside of the shin). Anterior shin splints (toward the outside of the leg) usually result from an imbalance between the calf muscles and the muscles in the front of your leg, and often affect beginners who either have not yet adjusted to the stresses of running or are not stretching enough. 
 
 
-![a running race track]({{ site.url }}/images/Shins-Splints/runningtrack.jpg)
+![a selection of running shoes]({{ site.url }}/images/Shins-Splints/goodrunningshoes.jpg)
 
 
 ### Treatments of shin splints.

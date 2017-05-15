@@ -32,18 +32,18 @@ featured: true
 
 
 
-### SHIN SPLINTS & HOW TO TREAT THEM
+### SHIN SPLINTS & HOW TO TREAT THEM.
 
 Shin splints is the term used to describe lower leg pain, either on the front outside part of the leg or the inside of the leg. When starting out a new running regime or starting a new sport shin splints are a common occurrence, even runners who have ran for years but suddenly change for running on flat surfaces to running up hills. This is partly because you are not building yourself into it – too much, too soon!
 
-[girl holding legs in pain]({{ site.url }}/images/Shins-Splints/shins.jpg)
+![girl holding legs in pain]({{ site.url }}/images/Shins-Splints/shins.jpg)
 
 Be careful not to self diagnose you shin splints, having pain in your shins doesn’t necessary mean you have shin splints. It may be a sign of another problem such as Compartment syndrome which is a swelling of the muscle within a closed compartment, usually along the outside of the lower leg which creates pressure. T The symptoms of compartment syndrome include leg pain, unusual nerve sensations, and eventually muscle weakness.
 
 The symptoms of compartment syndrome include leg pain, unusual nerve sensations, and eventually muscle weakness. Also a stress fracture which is an incomplete Crack in the bone. A bone scan is the definitive tool for diagnosing a stress fracture. However, there are clues you can look for that will signal whether or not you should get a bone scan. The pain of shin splints is also more generalized than that of a stress fracture. Press your fingertips along your shin, and if you can find a definite spot of sharp pain, it’s a sign of a stress fracture. Additionally, stress fractures often feel better in the morning because the bone has rested all night. However shin splints often feel worse in the morning because the soft tissue tightens overnight. Shin splints are also at their most painful when you forcibly try to lift your foot up at the ankle and flex your foot. 
 
 
-[girl running in sun]({{ site.url }}/images/Shins-Splints/runshin.jpg)
+![girl running in sun]({{ site.url }}/images/Shins-Splints/runshin.jpg)
 
 ### Common causes of shin splints these are listed below
 
@@ -54,17 +54,17 @@ The symptoms of compartment syndrome include leg pain, unusual nerve sensations,
  The most common site for shin splints is the medial area (the inside of the shin). Anterior shin splints (toward the outside of the leg) usually result from an imbalance between the calf muscles and the muscles in the front of your leg, and often affect beginners who either have not yet adjusted to the stresses of running or are not stretching enough. 
 
 
- [a running race track]({{ site.url }}/images/Shins-Splints/runningtrack.jpg)
+![a running race track]({{ site.url }}/images/Shins-Splints/runningtrack.jpg)
 
 
- ### Treatments of shin splints.
+### Treatments of shin splints.
 
 +	Stop running completely or decrease your training depending on the extent and duration of pain.
 +	Put ice on your shin to reduce inflammation.
 +	Gently stretch your Achilles if you have medial shin splints, and your calves if you have anterior shin splints. 
  	
 
- ### Stretches for your shins.
+### Stretches for your shins.
 
 +	Kneel on a carpeted floor, legs and feet together and toes pointed directly back. Then slowly sit back onto your calves and heels, pushing 		your ankles into the floor until you feel tension in the muscles of your shin. Hold for 10 to 12 seconds, relax and repeat.
 
@@ -72,7 +72,7 @@ The symptoms of compartment syndrome include leg pain, unusual nerve sensations,
 
  
 
-[girl doing shin stretch]({{ site.url }}/images/Shins-Splints/stretch1.jpg)
+![girl doing shin stretch]({{ site.url }}/images/Shins-Splints/stretch1.jpg)
 
 
 ### Tips to help and Prevent.
@@ -86,7 +86,7 @@ The symptoms of compartment syndrome include leg pain, unusual nerve sensations,
 +	If you are prone to developing shin splints, stretch your calves and Achilles regularly as a preventive measure.
 
 
-[guys running through the bush]({{ site.url }}/images/Shins-Splints/runningthroughbush.fw.png)
+![guys running through the bush]({{ site.url }}/images/Shins-Splints/runningthroughbush.fw.png)
  
  
 

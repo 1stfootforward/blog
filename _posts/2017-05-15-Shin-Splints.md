@@ -32,13 +32,12 @@ featured: true
 
 
 
-### SHIN SPLINTS & HOW TO TREAT THEM.
 
 Shin splints is the term used to describe lower leg pain, either on the front outside part of the leg or the inside of the leg. When starting out a new running regime or starting a new sport shin splints are a common occurrence, even runners who have ran for years but suddenly change from running on flat surfaces to running up hills. This is partly because you are not building yourself into it – too much, too soon!
 
 ![girl holding legs in pain]({{ site.url }}/images/Shins-Splints/shins.jpg)
 
-Be careful not to self diagnose you shin splints, having pain in your shins doesn’t necessary mean you have shin splints. It may be a sign of another problem such as Compartment syndrome which is a swelling of the muscle within a closed compartment, usually along the outside of the lower leg which creates pressure. The symptoms of compartment syndrome include leg pain, unusual nerve sensations, and eventually muscle weakness.
+Dont just assume you have shin splints, having pain in your shins doesn’t necessary mean you have shin splints. It may be a sign of another problem such as Compartment syndrome which is a swelling of the muscle within a closed compartment, usually along the outside of the lower leg which creates pressure. The symptoms of compartment syndrome include leg pain, unusual nerve sensations, and eventually muscle weakness.
 
 The symptoms of compartment syndrome include leg pain, unusual nerve sensations, and eventually muscle weakness. Also a stress fracture which is an incomplete Crack in the bone. A bone scan is the definitive tool for diagnosing a stress fracture. However, there are clues you can look for that will signal whether or not you should get a bone scan. The pain of shin splints is also more generalized than that of a stress fracture. Press your fingertips along your shin, and if you can find a definite spot of sharp pain, it’s a sign of a stress fracture. Additionally, stress fractures often feel better in the morning because the bone has rested all night. However shin splints often feel worse in the morning because the soft tissue tightens overnight. Shin splints are also at their most painful when you forcibly try to lift your foot up at the ankle and flex your foot. 
 
@@ -47,9 +46,9 @@ The symptoms of compartment syndrome include leg pain, unusual nerve sensations,
 
 ### Common causes of shin splints these are listed below
 
-+	inadequate stretching
++	Inadequate stretching
 +	worn shoes
-+	excessive stress placed on one leg or one hip from running on cambered roads or always running in the same direction on a track Typically,		   one leg is involved and it is almost always the runner’s dominant one. If you’re right-handed, you’re usually right-footed as well, and 		that’s the leg that’s going to hurt.
++	Excessive stress placed on one leg or one hip from running on cambered roads or always running in the same direction on a track Typically,		   one leg is involved and it is almost always the runner’s dominant one. If you’re right-handed, you’re usually right-footed as well, and 		that’s the leg that’s going to hurt.
 
  The most common site for shin splints is the medial area (the inside of the shin). Anterior shin splints (toward the outside of the leg) usually result from an imbalance between the calf muscles and the muscles in the front of your leg, and often affect beginners who either have not yet adjusted to the stresses of running or are not stretching enough. 
 
@@ -79,7 +78,7 @@ The symptoms of compartment syndrome include leg pain, unusual nerve sensations,
 
 +	If you continue running, wrap your leg before you go out. Use either tape or an Ace bandage, starting just above the ankle and continuing to 	just below the knee. Keep wrapping your leg until the pain goes away, which usually takes three to six weeks. “What you’re doing is binding 	the tendons up against the shaft of the shin to prevent stress,” 
 +	Consider cross-training for a while to let your shin heal. Swim, run in the pool or ride a bike. When you return to running, increase your 		mileage slowly, no more than 10 percent weekly.
-+	Make sure you wear the correct running shoes for your foot type specifically, over pronators should wear motion-control shoes. Severe over 		pronators need orthotics.
++	Make sure you wear the correct running shoes for your foot type specifically. Ask for help at a shoe store to get the right shoe for you.
 +	Have two pairs of shoes and alternate wearing them to vary the stresses on your legs.
 +	Avoid hills and excessively hard surfaces until shin pain goes away completely, then re-introduce them gradually to prevent a recurrence.
 +	If you frequently run on roads with an obvious camber, run out and back on the same side of the road. Likewise, when running on a track, 		switch directions.

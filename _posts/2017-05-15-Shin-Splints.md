@@ -34,11 +34,11 @@ featured: true
 
 ### SHIN SPLINTS & HOW TO TREAT THEM.
 
-Shin splints is the term used to describe lower leg pain, either on the front outside part of the leg or the inside of the leg. When starting out a new running regime or starting a new sport shin splints are a common occurrence, even runners who have ran for years but suddenly change for running on flat surfaces to running up hills. This is partly because you are not building yourself into it – too much, too soon!
+Shin splints is the term used to describe lower leg pain, either on the front outside part of the leg or the inside of the leg. When starting out a new running regime or starting a new sport shin splints are a common occurrence, even runners who have ran for years but suddenly change from running on flat surfaces to running up hills. This is partly because you are not building yourself into it – too much, too soon!
 
 ![girl holding legs in pain]({{ site.url }}/images/Shins-Splints/shins.jpg)
 
-Be careful not to self diagnose you shin splints, having pain in your shins doesn’t necessary mean you have shin splints. It may be a sign of another problem such as Compartment syndrome which is a swelling of the muscle within a closed compartment, usually along the outside of the lower leg which creates pressure. T The symptoms of compartment syndrome include leg pain, unusual nerve sensations, and eventually muscle weakness.
+Be careful not to self diagnose you shin splints, having pain in your shins doesn’t necessary mean you have shin splints. It may be a sign of another problem such as Compartment syndrome which is a swelling of the muscle within a closed compartment, usually along the outside of the lower leg which creates pressure. The symptoms of compartment syndrome include leg pain, unusual nerve sensations, and eventually muscle weakness.
 
 The symptoms of compartment syndrome include leg pain, unusual nerve sensations, and eventually muscle weakness. Also a stress fracture which is an incomplete Crack in the bone. A bone scan is the definitive tool for diagnosing a stress fracture. However, there are clues you can look for that will signal whether or not you should get a bone scan. The pain of shin splints is also more generalized than that of a stress fracture. Press your fingertips along your shin, and if you can find a definite spot of sharp pain, it’s a sign of a stress fracture. Additionally, stress fractures often feel better in the morning because the bone has rested all night. However shin splints often feel worse in the morning because the soft tissue tightens overnight. Shin splints are also at their most painful when you forcibly try to lift your foot up at the ankle and flex your foot. 
 

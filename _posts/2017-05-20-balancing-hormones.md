@@ -71,14 +71,17 @@ Conventional treatments for hormonal imbalances usually include synthetic hormon
 
 ![lots of medication]({{ site.url }}/images/hormones/pills.jpg)
 
+[Check out my probiotic and	prebiotic blog for some ideas.](http://1stfootforward.co.nz/blog/nutrition/Probiotics-vs-Prebiotics-(2)/ )
+
 
 ##### Get on top of the above imbalances by following these simple tips.
 
-+	A daily dose of a good quality probiotic can help restore an unhealthy gut and create a healthy environment.  Check out my probiotic and 		prebiotic blog for some ideas.
++	A daily dose of a good quality probiotic can help restore an unhealthy gut and create a healthy environment.  
+	[Check out my probiotic and	prebiotic blog for some ideas.](http://1stfootforward.co.nz/blog/nutrition/Probiotics-vs-Prebiotics-(2)/ )
 
 +	Minimize your alcohol consumption and eat a healthy balanced diet every day including fresh fruit and vegetables, oily fish, nuts, seeds and 	wholegrain. 
 
-+	Manage stress levels daily with exercise, meditation and plenty of quality sleep.
++	Manage stress levels daily with exercise, meditation and plenty of quality sleep. 
 
 
 ![an example of a balanced diet]({{ site.url }}/images/hormones/diet.jpg)

@@ -28,6 +28,27 @@ featured: true
     	}
 
 </style>
+<style>
+
+    .notepad-post-title h1{
+
+        display: none!important;
+    }
+
+    .modify .notepad-post-title h1{
+
+        display: block!important;
+    }
+
+    .bg-img img {
+    	 -webkit-background-size: cover!important;
+		  -moz-background-size: cover!important;
+		  -o-background-size: cover!important;
+		  background-size: cover!important;
+    }
+
+</style>
+
 
 
 

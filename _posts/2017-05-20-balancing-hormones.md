@@ -71,7 +71,7 @@ Conventional treatments for hormonal imbalances usually include synthetic hormon
 
 ![lots of medication]({{ site.url }}/images/hormones/pills.jpg)
 
-[Check out my probiotic and	prebiotic blog for some ideas.](http://1stfootforward.co.nz/blog/nutrition/Probiotics-vs-Prebiotics-(2)/ )
+
 
 
 ##### Get on top of the above imbalances by following these simple tips.

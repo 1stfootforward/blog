@@ -51,9 +51,6 @@ featured: true
 
 
 
-![girl holding tummy in pain]({{ site.url }}/images/hormones/soretummy.jpg)
-
-
 
 Our knees are so important, walking, running climbing and dancing are all moves that we need our knees for.
 The knee is the largest joint in our bodies. The upper leg bone - femur and lower leg bones - tibia and fibula are connected by a complicated system of ligaments, muscles, tendons and cartilage making them prone to injury.
@@ -79,7 +76,7 @@ The knee is the largest joint in our bodies. The upper leg bone - femur and lowe
 +	Knee joint dislocation this is pretty rare and will only happen with great force seek medical attention immediately 
 
 
-![girl running on a racing track]({{ site.url }}/images/knee-strength/running.jpg)
+![girl riding a orange bike]({{ site.url }}/images/knee-strength/biking.jpg)
 
 
 #### Overuse injuries can also occur after repetitive activities such as stair climbing, bike riding, jogging, and jumping. These injuries usually include:

@@ -99,17 +99,24 @@ Treatments for knee pain, problems or injury may include 1st Aid, rest, bracing,
 
 ### Below are some knee strengthening and stretches for you to try to start strengthening your knees.
 
-•	LEG LIFT Lying on the ground on your back, bend one leg keeping the foot flat on the ground. With the other leg, keeping the leg straight slightly lift off the ground. Hold the leg hovering above the ground for as long as you can. Release and repeat 4 times on each leg.
+•	LEG LIFT 
+Lying on the ground on your back, bend one leg keeping the foot flat on the ground. With the other leg, keeping the leg straight slightly lift off the ground. Hold the leg hovering above the ground for as long as you can. Release and repeat 4 times on each leg.
 
-•	STRAIGHTLEG LIFT Same set up as above, however, this time raise your leg as high as you can and hold. Release and repeat 4 times on each leg
+•	STRAIGHT LEG LIFT 
+Same set up as above, however, this time raise your leg as high as you can and hold. Release and repeat 4 times on each leg
 
-•	BRIDGE Lying on the ground on you back bend both knees and have your feet flat on the floor, then raise your bottom off the ground and hold. Repeat 8 times. 
+•	BRIDGE
+Lying on the ground on you back bend both knees and have your feet flat on the floor, then raise your bottom off the ground and hold. Repeat 8 times. 
 
-•	KNEE EXTENSION Sitting on a chair, lift one leg up to parallel from the ground. Hold, repeat on each leg 4 times.
+•	KNEE EXTENSION
+Sitting on a chair, lift one leg up to parallel from the ground. Hold, repeat on each leg 4 times.
 
-•	CALF RAISE Standing tall with your core braced ( if needed hold on to something for support ). Lift your heels off the ground, hold for about 5 seconds then release repeat exercise for at least 10 times. 
+•	CALF RAISE 
+Standing tall with your core braced ( if needed hold on to something for support ). Lift your heels off the ground, hold for about 5 seconds then release repeat exercise for at least 10 times. 
 
-•	BUTT KICKS the Same set up as above, however, this time bring your heal to your Butt repeat on each leg for 1 minute in a slow walk on the spot
+•	BUTT KICKS 
+The same set up as above, however, this time bring your heal to your Butt repeat on each leg for 1 minute in a slow walk on the spot
+
 
 ##### Regardless if you are already suffering from a knee injury or pain it's important to start implementing these into your routine as healthy knees can make all the difference between a comfortable life and a painful existence. 
 

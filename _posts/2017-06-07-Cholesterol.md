@@ -7,7 +7,7 @@ modified: 2017-06-07
 category: Nutrition
 tags: [Health, wellbeing, Diet, , rehab]
 tags: [Health, wellbeing, Diet, Cholesterol]
-imagefeature:CHOLESTEROL.png
+imagefeature: CHOLESTEROL.png
 mathjax: 
 chart:
 featured: true

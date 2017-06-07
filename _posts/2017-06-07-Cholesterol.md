@@ -11,8 +11,29 @@ imagefeature:CHOLESTEROL.png
 mathjax: 
 chart:
 featured: true
+
 ---
 
+<style>
+
+    .notepad-post-title h1{
+
+        display: none!important;
+    }
+
+    .modify .notepad-post-title h1{
+
+        display: block!important;
+    }
+
+    .bg-img img {
+    	 -webkit-background-size: cover!important;
+		  -moz-background-size: cover!important;
+		  -o-background-size: cover!important;
+		  background-size: cover!important;
+    }
+
+</style>
 
 
 Cholesterol is a type of fat that circulates in your blood. Your body needs some cholesterol to work properly, but when you have high cholesterol (hyperlipidemia) it speeds up the process of atherosclerosis.

@@ -39,8 +39,7 @@ This is when plaque builds up in your artery walls, narrowing arteries and restr
 There are no symptoms for high cholesterol so many people are unaware they have it. The only way to find out is to have a blood test.
 
 
-
-![dial alerting risk of stroke]({{ site.url }}/images/Cholesterol/cholesterolblock.jpg)
+![dial alerting risk of stroke]({{ site.url }}/images/Cholestorel-blog/cholesterolblock.jpg)
 
 
 
@@ -60,7 +59,7 @@ Known as ‘bad’ cholesterol The role of LDL in the body is to transport chole
 HDL cholesterol is like a ‘pick up’ truck that picks up and transports cholesterol from the bloodstream to the liver, which gets rid of it The role of HDL in the body is to carry extra cholesterol away from the arteries to the liver Known as ‘good’ cholesterol.
 Triglycerides are the most common form of fat in your body. The role of triglycerides is to store and transport fat in the blood. Extra energy from food and alcohol that your body does not need is changed to triglycerides. High triglycerides increase your risk of heart attack and stroke.
 
-![a plate of fast fatty foods]({{ site.url }}/images/Cholesterol/fastfood.jpg)
+![a plate of fast fatty foods]({{ site.url }}/images/Cholestorel-blog/fastfood.jpg)
 
 
 
@@ -78,7 +77,7 @@ Some areas to look at Changing
 •	Have a good sleep – Aim for at least 8 hours sleep a night this will also help with stress and weight management 
 
 
-![a heart shaped bowl of berries]({{ site.url }}/images/Cholesterol/heartberries.jpg)
+![a heart shaped bowl of berries]({{ site.url }}/images/Cholestorel-blog/heartberries.jpg)
 
 
 ##### Diet plays an important part in your cholesterol levels. It can both raise and lower your numbers. Here are 6 LDL cholesterol lowering foods for you to enjoy.
@@ -93,7 +92,7 @@ Some areas to look at Changing
 ##### Consult you doctor and ask for a blood test if you think you might have high cholesterol. Start making small changes today for a better you tomorrow!
 
 
-![lots of walnuts]({{ site.url }}/images/Cholesterol/walnuts.jpg)
+![lots of walnuts]({{ site.url }}/images/Cholestorel-blog/walnuts.jpg)
 
 
 

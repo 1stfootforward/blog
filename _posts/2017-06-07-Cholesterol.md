@@ -6,7 +6,7 @@ headline: "Cholesterol"
 modified: 2017-06-07
 category: Nutrition
 tags: [Health, wellbeing, Diet, Cholesterol]
-imagefeature: CHOLESTEROL.png
+imagefeature: frontpic.png
 mathjax: 
 chart:
 featured: true
@@ -60,7 +60,7 @@ Known as ‘bad’ cholesterol The role of LDL in the body is to transport chole
 HDL cholesterol is like a ‘pick up’ truck that picks up and transports cholesterol from the bloodstream to the liver, which gets rid of it The role of HDL in the body is to carry extra cholesterol away from the arteries to the liver Known as ‘good’ cholesterol.
 Triglycerides are the most common form of fat in your body. The role of triglycerides is to store and transport fat in the blood. Extra energy from food and alcohol that your body does not need is changed to triglycerides. High triglycerides increase your risk of heart attack and stroke.
 
-![a plate of fast fatty foods]({{ site.url }}/images/Cholesterol/ashley-kirk-46357 (1).jpg)
+![a plate of fast fatty foods]({{ site.url }}/images/Cholesterol/fastfood.jpg)
 
 
 
@@ -78,7 +78,7 @@ Some areas to look at Changing
 •	Have a good sleep – Aim for at least 8 hours sleep a night this will also help with stress and weight management 
 
 
-![a heart shaped bowl of berries]({{ site.url }}/images/Cholesterol/jamie-street-94242 (1).jpg)
+![a heart shaped bowl of berries]({{ site.url }}/images/Cholesterol/heartberries.jpg)
 
 
 ##### Diet plays an important part in your cholesterol levels. It can both raise and lower your numbers. Here are 6 LDL cholesterol lowering foods for you to enjoy.
@@ -93,7 +93,7 @@ Some areas to look at Changing
 ##### Consult you doctor and ask for a blood test if you think you might have high cholesterol. Start making small changes today for a better you tomorrow!
 
 
-![lots of walnuts]({{ site.url }}/images/Cholesterol/peppe-ragusa-59098 (2).jpg)
+![lots of walnuts]({{ site.url }}/images/Cholesterol/walnuts.jpg)
 
 
 

@@ -1,17 +1,15 @@
 ---
 layout: post
 title: "Cholesterol"
-description: how cholesterol effects your body
+description: How cholesterol effects your body
 headline: "Cholesterol"
 modified: 2017-06-07
 category: Nutrition
-tags: [Health, wellbeing, Diet, , rehab]
 tags: [Health, wellbeing, Diet, Cholesterol]
 imagefeature: CHOLESTEROL.png
 mathjax: 
 chart:
 featured: true
-
 ---
 
 <style>

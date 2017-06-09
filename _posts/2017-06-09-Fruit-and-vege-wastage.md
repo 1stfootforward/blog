@@ -46,7 +46,8 @@ I often hear how un-affordable it is to eat healthy, but did you know Kiwis thro
 ![wasted fruit and vege at the tip]({{ site.url }}/images/Fruit-and-Vegetable-wastage-blog/wastedfruit.jpg)
 
 
-##### Below are some tips to Increase your vegetables shelf lives giving you more time to eat them. As its much better to make small changes, creating less wastage and in turn save money!
+Below are some tips to increase your vegetables shelf lives giving you more time to eat them. 
+As its much better to make small changes, creating less wastage and in-turn save money!
 
 ##### Avocados.
 
@@ -58,7 +59,7 @@ To store broccoli and get an extra 4 days from it. Run it under cold water then 
 
 ##### Salad greens.
 
-Remove all salad green from plastic bags and put in air tight containers instead this will increase their shelf life for an extra 3 days
+Remove all salad greens from plastic bags and put in air tight containers instead, this will increase their shelf life for an extra 3 days
 
 ##### Carrots.
 
@@ -70,13 +71,13 @@ If uncut wrap the base of the celery in paper towels. For cut celery store in an
 
 ##### Iceberg Lettuce.
 
-A salad crisper is a good place to store the iceberg lettuce, however if you don’t have one you can create your own by wrapping the lettuce in a paper towel and store in an airtight container in the fridge
+A salad crisper is a good place to store the iceberg lettuce, however if you don’t have one you can create your own by wrapping the lettuce in a paper towel and storing it in an airtight container in the fridge.
 
 ##### Pumpkin.
 
-![a plate full with broccoli]({{ site.url }}/images/Fruit-and-Vegetable-wastage-blog/broccoli.jpg)
-
 Once cut the most successful way to store pumpkin is to wrap it in cling film and keep it in the fridge. Keeping the seeds in or removing them makes no difference.
+
+![a plate full with broccoli]({{ site.url }}/images/Fruit-and-Vegetable-wastage-blog/broccoli.jpg)
 
 #### Just like Vegetables Fruit is highly wasted as well this use to be the case in my household to until I started doing these few things. Now I have little to no wastage saving me around $20 a week. Try some out to see if you can start saving money too!
 

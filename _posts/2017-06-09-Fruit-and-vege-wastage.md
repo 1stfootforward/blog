@@ -36,11 +36,11 @@ featured: true
 
 
 
-Are you throwing away your fruit and vegetables often? Have a read of the blog below on some tips to makes your fruit and vegetables last longer, and ways to use them up if they start going bad!
+Are you throwing away your fruit and vegetables often? Have a read of the blog below on some tips to make your fruit and vegetables last longer, and ways to use them up if they start going bad!
 
 ### Wastage.
 
-I often hear how un-affordable it is to eat healthy, but did you know Kiwis throw away a large amount of fruit and vegetables every week, almost a third of food wasted by households is fruit and vegetables and this is mainly due to their short shelf life and bad storage.
+I often hear how un-affordable it is to eat healthy, but did you know Kiwis throw away a large amount of fruit and vegetables every week, almost a third of food wasted by households is fruit and vegetables and this is mainly due to their short shelf life and bad storage choices.
 
 
 ![wasted fruit and vege at the tip]({{ site.url }}/images/Fruit-and-Vegetable-wastage-blog/wastedfruit.jpg)

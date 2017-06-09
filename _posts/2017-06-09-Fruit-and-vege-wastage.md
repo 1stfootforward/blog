@@ -40,13 +40,13 @@ Are you throwing away your fruit and vegetables often? Have a read of the blog b
 
 ### Wastage.
 
-I often hear how un affordable it is to eat healthy, but did you know Kiwis throw away a large amount of fruit and vegetables every week, almost a third of food wasted by households is vegetables and this is mainly due to their short shelf life and bad storage.
+I often hear how un-affordable it is to eat healthy, but did you know Kiwis throw away a large amount of fruit and vegetables every week, almost a third of food wasted by households is fruit and vegetables and this is mainly due to their short shelf life and bad storage.
 
 
 ![wasted fruit and vege at the tip]({{ site.url }}/images/Fruit-and-Vegetable-wastage-blog/wastedfruit.jpg)
 
 
-#### Below are some tips to Increase your vegetables shelf lives giving you more time to eat them. As its much better to make small changes, creating less wastage and in turn save money!
+##### Below are some tips to Increase your vegetables shelf lives giving you more time to eat them. As its much better to make small changes, creating less wastage and in turn save money!
 
 ##### Avocados.
 
@@ -60,7 +60,7 @@ To store broccoli and get an extra 4 days from it. Run it under cold water then 
 
 Remove all salad green from plastic bags and put in air tight containers instead this will increase their shelf life for an extra 3 days
 
-#####Carrots.
+##### Carrots.
 
 As a favourite snack and the best to dip in hummus, carrots seem to get soft and flimsy quickly try keeping them in an air tight container, lined with a paper towel if whole. If they are cut store in an airtight container filled with water.
 

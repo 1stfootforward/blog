@@ -34,7 +34,6 @@ featured: true
 </style>
 
 
-![wasted fruit and vege at the tip]({{ site.url }}/images/Fruit-and-Vegetable-wastage-blog/wastedfruit.jpg)
 
 
 My name is Heather and I started 1st Foot Forward In, September 2015.
@@ -63,7 +62,7 @@ Once qualified I opened up a platform for women to come and train, either in a o
 
 From here HIIT camp was born, being flexible is one thing, however, I wanted to offer more. Being busy women I wanted a class to be short and intense so everyone could join in. These classes again were popular burning calories fast and for long after you finish the workout making it the best for everyone who is short on time. 
 
-![photo of me doing a slamball]({{ site.url }}/images/my-bio-blog/hitcamp.mp4)
+![photo of me finishing a front squat]({{ site.url }}/images/my-bio-blog/strongpic2.jpg)
 
 
 Just recently I have started two more classes  S.E.T which are strength and endurance training, using the barbell as resistance.
@@ -82,7 +81,7 @@ These qualifications are my greatest achievements so far. Giving me the opportun
 +	Certificate 3, 4 & 5 Cooking with distinction (CPIT)
 
 Studying in ChCh and interrupted by the earthquakes I managed to pass with distinction. A passion I continue to use on a day to day basis. This diploma gives me an insider view, opening up challenges with recipes changing them from unhealthy to healthy.
- 
+
 +	First Aid Certificate
 
 Having the knowledge of food from being a chef, the understanding of what shift work is like in real time, the emotion and rollercoaster feelings being a mum and trying to find time just for you.

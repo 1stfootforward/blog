@@ -50,7 +50,7 @@ The name “horned melon” comes from the fruit’s unusual appearance, as the 
 
 #### Weight Loss: 
 
-Considering that this fruit is more than 80% water, it has the ability to fill you up without packing on any pounds. The high concentration of nutrients also keeps your body nutrient-rich, even though the fruit is low in calories and fats.
+The Kiwano is more than 80% water, it has the ability to fill you up without packing on any pounds. The high concentration of nutrients also keeps your body nutrient-rich, even though the fruit is low in calories and fats.
 Antioxidant Capacity: There are high levels of alpha-tocopherol found in kiwano, which is a potent antioxidant form of vitamin E. This is very important for the health of nerves and blood vessels, while it also seeks out and neutralizes free radicals, the harmful byproducts of cellular metabolism that can cause everything from heart disease to cancer.
 
 #### Eye Health: 
@@ -65,9 +65,6 @@ The significant levels of vitamin A found in kiwano make it an important booster
 
 Zinc is a mineral that is often overlooked in human health, but it plays a key role in the metabolism, as well as in producing protein, which is necessary for wound healing and repair of organs, tissues, blood vessels, and cells. The high content of vitamin C is a perfect complement to the zinc found in kiwano, as ascorbic acid is a key component of collagen, which is another key material in repair and growth.
 
-
-![picture of girl eating kiwano]({{ site.url }}/images/kiwano-blog/YUM-KIWAN0.jpg)
-
 #### Aging Process:
 
 Between vitamin A, vitamin C, natural antioxidants, and abundant organic compounds, kiwano are wonderful for staying young, both inside and out. It is known to protect the integrity of the skin and reduce age spots and wrinkles, in addition to lessening the appearance of scars and blemishes. These same important nutrients keep the inside of the body younger by preventing the onset of chronic disease through intense antioxidant activity.
@@ -77,12 +74,16 @@ Between vitamin A, vitamin C, natural antioxidants, and abundant organic compoun
 Research has connected some of the organic compounds in kiwano with the regulation of hormones, particularly adrenaline and other stress hormones. If you suffer from chronic stress or feel anxious, eating some kiwano can quickly ease your mind and get your body back to a calm, relaxed state.
 
 #### Digestive Process: 
+
 The high fiber content in kiwano makes it an ideal digestive aid. Dietary fiber helps to stimulate peristaltic motion and clear out the gastrointestinal tract, keeping your bowel movements regular and preventing cramping, bloating, constipation, and more serious conditions like gastric ulcers or even colon cancer. Dietary fiber is also a key element of heart health, as it helps to regulate the level of cholesterol in the body; it even helps to regulate insulin receptors, thereby preventing or managing diabetes.
 
-#### Bone Strength: Kiwanos are also turned to for their high mineral content, particularly of calcium, in order to boost bone strength and prevent the onset of osteoporosis. While the other minerals in kiwano, including zinc, are 
+#### Bone Strength:
+
+Kiwanos are also turned to for their high mineral content, particularly of calcium, in order to boost bone strength and prevent the onset of osteoporosis. While the other minerals in kiwano, including zinc, are 
 important for bone development, growth, repair, and integrity, calcium is the most desirable mineral for our bone health.
 
-#### Caution:
+#### Caution
+
 The bitter forms of kiwano, before they are ripe, can have dangerous levels of chemicals that are not present when the fruit is ready to eat. This toxicity can cause stomach issues, headaches, and fevers, but is not known to be life-threatening. Also, kiwano is not commonly considered an allergenic food. Make sure they are soft when squeezed before eating.
 
 

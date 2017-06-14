@@ -66,7 +66,7 @@ The significant levels of vitamin A found in kiwano make it an important booster
 Zinc is a mineral that is often overlooked in human health, but it plays a key role in the metabolism, as well as in producing protein, which is necessary for wound healing and repair of organs, tissues, blood vessels, and cells. The high content of vitamin C is a perfect complement to the zinc found in kiwano, as ascorbic acid is a key component of collagen, which is another key material in repair and growth.
 
 
-![picture of girl eating kiwano]({{ site.url }}/images/kiwano-blog/eating-kiwiano.jpg)
+![picture of girl eating kiwano]({{ site.url }}/images/kiwano-blog/YUM-KIWAN0.jpg)
 
 #### Aging Process:
 

@@ -4,8 +4,8 @@ title: "Kiwano"
 description: The health benefits of eating Kiwano
 headline: "Kiwano & its health benefits"
 modified: 2017-06-14
-category: lifestyle
-tags: [biograpy, 1st foot forward, goals, results ]
+category: nutrition
+tags: [minerals, nutrients, kiwano, fruit ]
 imagefeature: Kiwano2.png
 mathjax: 
 chart:

@@ -6,7 +6,7 @@ headline: "Kiwano & its health benefits"
 modified: 2017-06-14
 category: lifestyle
 tags: [biograpy, 1st foot forward, goals, results ]
-imagefeature: KIWANO1.png
+imagefeature: Kiwano2.png
 mathjax: 
 chart:
 featured: true
@@ -87,7 +87,7 @@ important for bone development, growth, repair, and integrity, calcium is the mo
 The bitter forms of kiwano, before they are ripe, can have dangerous levels of chemicals that are not present when the fruit is ready to eat. This toxicity can cause stomach issues, headaches, and fevers, but is not known to be life-threatening. Also, kiwano is not commonly considered an allergenic food. Make sure they are soft when squeezed before eating.
 
 
-![kiwano cut in half with a straw and spoon]({{ site.url }}/images/kiwano-blog/fun-with-kiwiano.jpg)
+![PICTURE OF A KIWIANO CUT IN HALF]({{ site.url }}/images/kiwano-blog/mainpic-kiwiano.jpg)
 
 
 

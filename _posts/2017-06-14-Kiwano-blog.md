@@ -4,9 +4,9 @@ title: "Kiwano"
 description: The health benefits of eating Kiwano
 headline: "Kiwano & its health benefits"
 modified: 2017-06-14
-category: nutrition
-tags: [minerals, nutrients, kiwano, fruit ]
-imagefeature: Kiwano2.png
+category: Nutrition
+tags: [diet, health, fruit]
+imagefeature: KIWANO1.png
 mathjax: 
 chart:
 featured: true
@@ -50,7 +50,7 @@ The name “horned melon” comes from the fruit’s unusual appearance, as the 
 
 #### Weight Loss: 
 
-The Kiwano is more than 80% water, it has the ability to fill you up without packing on any pounds. The high concentration of nutrients also keeps your body nutrient-rich, even though the fruit is low in calories and fats.
+Considering that this fruit is more than 80% water, it has the ability to fill you up without packing on any pounds. The high concentration of nutrients also keeps your body nutrient-rich, even though the fruit is low in calories and fats.
 Antioxidant Capacity: There are high levels of alpha-tocopherol found in kiwano, which is a potent antioxidant form of vitamin E. This is very important for the health of nerves and blood vessels, while it also seeks out and neutralizes free radicals, the harmful byproducts of cellular metabolism that can cause everything from heart disease to cancer.
 
 #### Eye Health: 
@@ -64,6 +64,9 @@ The significant levels of vitamin A found in kiwano make it an important booster
 #### Metabolic Processes:
 
 Zinc is a mineral that is often overlooked in human health, but it plays a key role in the metabolism, as well as in producing protein, which is necessary for wound healing and repair of organs, tissues, blood vessels, and cells. The high content of vitamin C is a perfect complement to the zinc found in kiwano, as ascorbic acid is a key component of collagen, which is another key material in repair and growth.
+
+
+![picture of girl eating kiwano]({{ site.url }}/images/kiwano-blog/eating-kiwiano.jpg)
 
 #### Aging Process:
 
@@ -79,15 +82,15 @@ The high fiber content in kiwano makes it an ideal digestive aid. Dietary fiber 
 
 #### Bone Strength:
 
-Kiwanos are also turned to for their high mineral content, particularly of calcium, in order to boost bone strength and prevent the onset of osteoporosis. While the other minerals in kiwano, including zinc, are 
+ Kiwanos are also turned to for their high mineral content, particularly of calcium, in order to boost bone strength and prevent the onset of osteoporosis. While the other minerals in kiwano, including zinc, are 
 important for bone development, growth, repair, and integrity, calcium is the most desirable mineral for our bone health.
 
-#### Caution
+#### Caution:
 
 The bitter forms of kiwano, before they are ripe, can have dangerous levels of chemicals that are not present when the fruit is ready to eat. This toxicity can cause stomach issues, headaches, and fevers, but is not known to be life-threatening. Also, kiwano is not commonly considered an allergenic food. Make sure they are soft when squeezed before eating.
 
 
-![PICTURE OF A KIWIANO CUT IN HALF]({{ site.url }}/images/kiwano-blog/mainpic-kiwiano.jpg)
+![kiwano cut in half with a straw and spoon]({{ site.url }}/images/kiwano-blog/fun-with-kiwiano.jpg)
 
 
 

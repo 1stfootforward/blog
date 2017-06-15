@@ -6,7 +6,7 @@ headline: "Kiwano & its health benefits"
 modified: 2017-06-14
 category: Nutrition
 tags: [diet, health, fruit]
-imagefeature: KIWANO1.png
+imagefeature: Kiwano2.png
 mathjax: 
 chart:
 featured: true

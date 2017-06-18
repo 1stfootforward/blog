@@ -44,7 +44,7 @@ Having problems with our pelvic floors is quite common for women especially if y
 +	constantly needing to go to the  toilet 
 +	finding it difficult to empty your bladder or bowel 
 +	accidentally losing control of your bladder or bowel 
-+	accidentally passing the wind 
++	accidentally passing wind 
 +	a prolapse, this may be felt as a bulge in the vagina or a feeling of heaviness, discomfort, pulling, dragging or dropping 
 +	pain in your pelvic area 
 +	painful sex. 
@@ -75,7 +75,7 @@ Some people have pelvic floor muscles that are too tight and cannot relax. This 
 
 ![Diagram of a ladies pelvis mucles]({{ site.url }}/images/pelvic-floor/antanomy.jpg)
 
-Although it is hidden from view, your pelvic floor muscles can be consciously controlled and therefore trained, much like your arm, leg or abdominal muscles. Strengthening your pelvic floor muscles will help you to actively support your bladder and bowel. This improves bladder and bowel control and reduces the likelihood of accidentally leaking from your bladder or bowel   Like other muscles in your body, your pelvic floor muscles will become stronger with a regular exercise program. This is important for both men and women. 
+Although it is hidden from view, your pelvic floor muscles can be consciously controlled and therefore trained, much like your arm, leg or abdominal muscles. Strengthening your pelvic floor muscles will help you to actively support your bladder and bowel. This improves bladder and bowel control and reduces the likelihood of accidentally leaking from your bladder or bowel   Like other muscles in your body, your pelvic floor muscles will become stronger with a regular exercise program. 
 
 ### Exercises to improve the strength of your pelvic floor muscles 
 
@@ -87,9 +87,10 @@ Although it is hidden from view, your pelvic floor muscles can be consciously co
 
 +	Sit, stand or lie down with your legs slightly apart and relax your thighs, buttocks and abdomen muscles. Tighten the ring of muscle around 	your front and back passages drawing the pelvic floor muscles up inside. Try to complete up to 10 slow squeezes and 10 fast squeezing 			exercises. 
 
-+	Stand with your back to a wall. Pressing your back into the wall slowly bend your knees till you are in a sitting position. Hold for as long 	 as you can, relax and repeat. 
++	Stand with your back to a wall. Pressing your back into the wall slowly bend your knees till you are in a sitting position. Hold for as 		long as you can, relax and repeat. 
 
-##### Just like our other muscles strengthening them takes time. Repeat these exercise 3 – 4 times a week for 2 moths before expecting to she a change. 
+##### Just like our other muscles strengthening them takes time 
+Repeat these exercise 3 – 4 times a week for 2 months before expecting to see a change. 
 
 
 

@@ -12,27 +12,6 @@ chart:
 featured: true
 ---
 
-<style>
-
-    .notepad-post-title h1{
-
-        display: none!important;
-    }
-
-    .modify .notepad-post-title h1{
-
-        display: block!important;
-    }
-
-    .bg-img img {
-    	 -webkit-background-size: cover!important;
-		  -moz-background-size: cover!important;
-		  -o-background-size: cover!important;
-		  background-size: cover!important;
-    }
-
-</style>
-
 
 
 Having problems with our pelvic floors is quite common for women especially if you have had kids. It is absolutely embarrassing when we have leakage in public and annoying as we put off playing with our children to avoid it. 

@@ -61,8 +61,8 @@ Fiber is a great tool for aiding weight loss and is only found in plant-based fo
 
 #### Nutrient Content.
 
-With complex carbohydrates being more of an attractive option each of the carbs contain relatively the same, however complex carbs release their nutrients slowly whereas simple carbohydrates release them at one go. 
-Each contains 4 calories for every 1 gram of carbohydrate. 
+Most of our nutrients are sourced from our intake of carbohydrates. Fruit and vegetables are full of fibre, vitamins and minerals and are also high in carbohydrates. So if you are eating a low carb diet beware you will need to find those nutrients from another source.
+When choosing carbohydrate focus on eating ones that are high in fibre and low GI keeping you fuller for longer. 
 
 
 

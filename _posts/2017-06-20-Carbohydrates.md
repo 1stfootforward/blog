@@ -46,7 +46,7 @@ Your brain needs especially need carbs to function properly. If you don’t have
 Be careful what you label as a complex carb and a simple carb, For example, fresh cherries provide ample sugars, and saltine crackers provide just complex carbs. Few would argue that highly processed crackers are more nutritious than fresh cherries.
 
 Simple and Complex Carbs are very similar as both types yield glucose through digestion or metabolism, both work to maintain your blood glucose, both provide the same number of calories, and both protect your body from protein breakdown and ketosis. The nutrient density of our food choices is far more critical. 
-So when we Compare our Sources of Carbohydrates There are 3 main tools we can use. 
+So when we Compare our Sources of Carbohydrates, there are 3 main tools we can use. 
 
 ![a picture of lots of fruit]({{ site.url }}/images/Carbohydrates-blog/fruit.jpg)
 
@@ -64,7 +64,6 @@ Fiber is a great tool for aiding weight loss and is only found in plant-based fo
 With complex carbohydrates being more of an attractive option each of the carbs contain relatively the same, however complex carbs release their nutrients slowly whereas simple carbohydrates release them at one go. 
 Each contains 4 calories for every 1 gram of carbohydrate. 
 
-See table below 
 
 
 

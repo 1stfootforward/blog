@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "How many steps do you do everyday?"
-description: why its important to keep your step count up!
-headline: "How many steps do you do everyday?"
-modified: 2017-06-29
+title: "The Effects of Sitting all day!"
+description: Sitting all day is bad for your health!
+headline: "The Effects of Sitting all day!"
+modified: 2017-06-30
 category: Lifestyle
-tags: [active, health & wellness, step count]
+tags: [active, health & wellness, sitting]
 imagefeature: officespace.jpg
 mathjax: 
 chart:

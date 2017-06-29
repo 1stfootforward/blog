@@ -78,7 +78,7 @@ If your typical day consists of sitting in the car driving to work, sitting at w
 
 	Roll your shoulders forward, then backward for at least 30 seconds each
 
-####Movements to include to the daily chores.
+#### Movements you can include to the daily chores.
 
 +	#### Walking Lunges.
 

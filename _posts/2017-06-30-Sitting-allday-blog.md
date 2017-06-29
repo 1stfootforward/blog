@@ -12,7 +12,7 @@ chart:
 featured: true
 ---
 
-![large winding staircase]({{ site.url }}/images/Step-blog/staircase.jpg)
+
 
 Does your job require you to sit all day? 
 Moving around is good for you. It’s good for your physical health as well as your mental health.
@@ -39,7 +39,7 @@ There are lots of simple ways to include some physical activity in your day. Eve
 +	Use the stairs, all of the way, ½ the way
 +	Get a pedometer and set a goal
 
-![large flight of stairs]({{ site.url }}/images/Step-blog/stairs.jpg)
+![large flight of stairs]({{ site.url }}/images/Sitting-allday-blog/stairs.jpg)
 
 
 ##### Start being more active at work as well, you’d be surprised at all the things you can do.
@@ -51,7 +51,7 @@ There are lots of simple ways to include some physical activity in your day. Eve
 
 If your typical day consists of sitting in the car driving to work, sitting at work, sitting to drive home then to relax you find yourself sitting again you may also find you sleep in a curled/seated position as well. This isn’t good for you, the human body is made to stand up straight! Our heart and cardiovascular system work more effectively this way. Our bowel also functions more efficiently when we are upright. It is common for people who are bedridden in the hospital to experience problems with their bowel function. When you are physically active, on the other hand, your overall energy levels and endurance improve, and your bones maintain strength. Which is optimal as we age.
 
-![girl walking on the pavement]({{ site.url }}/images/Step-blog/walking.jpg)
+![girl walking on the pavement]({{ site.url }}/images/Sitting-allday-blog/walking.jpg)
 
 ##### It may be easier to move more whilst you are home so below are a few ideas to move more at home.
 
@@ -60,10 +60,7 @@ If your typical day consists of sitting in the car driving to work, sitting at w
 +	Include exercise into your chores ( see below )
 
 
-
-
-
-##### Movement you can do during the day whilst sitting.
+### Movement you can do during the day whilst sitting.
 
 +	##### Stretching your Wrists.
 
@@ -97,7 +94,7 @@ Squat when you need to pick something up off the floor or if you are cleaning a 
 
 
 
-![a picture of a laundry basket]({{ site.url }}/images/Step-blog/housework.jpg)
+![a picture of a laundry basket]({{ site.url }}/images/Sitting-allday-blog/housework.jpg)
 
 
 

@@ -28,30 +28,29 @@ What causes muscle cramps?
 The cause of muscle cramps isn't always known. Muscle cramps may be brought on by many conditions 
 or activities, such as: 
  
-##### Exercising during pregnancy. 
++	Exercising during pregnancy. 
+	Cramps may occur because of decreased amounts of minerals, such as calcium and magnesium, 
+	especially in the later months of pregnancy. 
 
-Cramps may occur because of decreased amounts of minerals, such as calcium and magnesium, 
-especially in the later months of pregnancy. 
++	Exposure to cold temperatures.
 
-##### Exposure to cold temperatures.
+	especially to cold water. 
 
-especially to cold water. 
++	Other medical conditions.
 
-##### Other medical conditions.
+	such as blood flow problems, kidney disease, thyroid disease, and multiple sclerosis.  
 
-such as blood flow problems, kidney disease, thyroid disease, and multiple sclerosis.  
++	Standing on a hard surface for a long time.
 
-##### Standing on a hard surface for a long time.
++	Sitting for a long time.
 
-##### Sitting for a long time.
++	Putting your legs in awkward positions while you sleep.
 
-##### Putting your legs in awkward positions while you sleep.
++	Not having enough potassium, calcium, and other minerals in your blood
 
-##### Not having enough potassium, calcium, and other minerals in your blood
++	Being dehydrated, which means that your body has lost too much fluid.
 
-##### Being dehydrated, which means that your body has lost too much fluid.
-
-##### Taking certain medicines, such as birth control pills, and steroids 
++	Taking certain medicines, such as birth control pills, and steroids 
 
 
 ### How can you stop a muscle cramp when it happens?
@@ -73,7 +72,7 @@ you. Here are some things you can try:
 ### Here are some things you can try to help leg cramp: 
  
 +	Walk around, or jiggle your leg. 
-+	Stretch your calf muscles.  
++	Stretch your Calf muscles 
 	
 	You can do this by standing in front of a wall or bench, put you foot on an angle against the wall with 
 	your heel still on the ground and your toes against the wall, lean forward  

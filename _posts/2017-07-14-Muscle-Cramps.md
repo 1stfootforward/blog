@@ -31,25 +31,15 @@ or activities, such as:
 +	Exercising during pregnancy. 
 	Cramps may occur because of decreased amounts of minerals, such as calcium and magnesium, 
 	especially in the later months of pregnancy. 
-
 +	Exposure to cold temperatures.
-
 	especially to cold water. 
-
 +	Other medical conditions.
-
 	such as blood flow problems, kidney disease, thyroid disease, and multiple sclerosis.  
-
 +	Standing on a hard surface for a long time.
-
 +	Sitting for a long time.
-
 +	Putting your legs in awkward positions while you sleep.
-
 +	Not having enough potassium, calcium, and other minerals in your blood
-
 +	Being dehydrated, which means that your body has lost too much fluid.
-
 +	Taking certain medicines, such as birth control pills, and steroids 
 
 

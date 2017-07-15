@@ -48,8 +48,6 @@ or activities, such as:
 You may need to try a few different ways to stop a muscle cramp before you find what works best for 
 you. Here are some things you can try: 
  
- 
- 
 +	Stretch and massage the muscle. 
 +	Take a warm shower or bath to relax the muscle. 
 +	A heating pad placed on the muscle can also help. Try using an ice or cold pack. Always keep a 
@@ -63,7 +61,6 @@ you. Here are some things you can try:
  
 +	Walk around, or jiggle your leg. 
 +	Stretch your Calf muscles 
-	
 	You can do this by standing in front of a wall or bench, put you foot on an angle against the wall with 
 	your heel still on the ground and your toes against the wall, lean forward  
  

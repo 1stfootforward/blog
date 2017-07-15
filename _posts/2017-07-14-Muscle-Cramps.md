@@ -2,11 +2,11 @@
 layout: post
 title: "Muscle Cramps!"
 description: how to prevent and treat muscle cramps!
-headline: "Muscle Cramps!!"
+headline: "Muscle Cramps!"
 modified: 2017-07-14
 category: Rehab
 tags: [active, health & wellness, cramps]
-imagefeature: frontpagecramp.jpg
+imagefeature: crampmainpic.jpg
 mathjax: 
 chart:
 featured: true
@@ -23,7 +23,7 @@ waking up.
 
 ![picture of a red sore calf muscle]({{ site.url }}/images/Muscle-Cramps/calfcramp1.JPG)
  
-What causes muscle cramps? 
+### What causes muscle cramps? 
 
 The cause of muscle cramps isn't always known. Muscle cramps may be brought on by many conditions 
 or activities, such as: 

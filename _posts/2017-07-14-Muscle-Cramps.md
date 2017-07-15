@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Muscle Cramps!"
-description: how to [prevent and treat muscle cramps!
+description: how to prevent and treat muscle cramps!
 headline: "Muscle Cramps!!"
 modified: 2017-07-14
 category: Rehab
 tags: [active, health & wellness, cramps]
-imagefeature:frontpagecramp.jpg
+imagefeature: frontpagecramp.jpg
 mathjax: 
 chart:
 featured: true
@@ -37,7 +37,7 @@ especially in the later months of pregnancy.
 
 especially to cold water. 
 
-#####Other medical conditions.
+##### Other medical conditions.
 
 such as blood flow problems, kidney disease, thyroid disease, and multiple sclerosis.  
 

@@ -13,16 +13,22 @@ featured: true
 ---
 
 
+####   [1st Foot Fowards Balance Blog ](http://1stfootforward.co.nz/blog/rehab/Balance/)
 
 ### Why is it important to keep the ankle strong?
 
-A physically active body must achieve a stable balance around each active joint to have top performance, as ligaments connect the bones to each other, and provide much of the joint's stability. This is especially true for our ankles as they take the most impact from our different movements so strengthening the muscle that is connected to bone by tendons, allow for more impact stability and movement at the joints.
-Although the ligaments connecting the bones in the ankle are necessary for proper function, there are several muscles that also help support the ankle during any type of activity. Building strength and stability, in these muscles, helps to prevent injury and improve performance.
-When we perform any movement, whether it be running or jumping the ankle and surrounding muscles are put under a lot of stress. If the ankle is strong, we can withstand greater force before an injury is sustained. In addition to decreasing ankle injuries, strengthening lower leg muscles will help prevent chronic conditions such as shin splints and Achilles tendonitis.
-Proprioception is the body's ability to realize its place in space. If we are moving into a position that could sprain our ankles, having increased proprioception can decrease the risk by alerting us to the danger. Proprioception can also increase in our performance during our chosen sport or training regime. Proprioceptive training is done with balance exercises – link to balance blog
-
+A physically active body must achieve a stable balance around each active joint to have top performance, as ligaments connect the bones to each other, and provide much of the joint's stability. 
+This is especially true for our ankles as they take the most impact from our different movements so strengthening the muscle that is connected to bone by tendons, allow for more impact stability and movement at the joints.
 
 ![picture of ladies feet in high heels]({{ site.url }}/images/Ankle-strength/ankles.jpg)
+
+Although the ligaments connecting the bones in the ankle are necessary for proper function, there are several muscles that also help support the ankle during any type of activity. Building strength and stability, in these muscles, helps to prevent injury and improve performance.
+When we perform any movement, whether it be running or jumping the ankle and surrounding muscles are put under a lot of stress. If the ankle is strong, we can withstand greater force before an injury is sustained. 
+In addition to decreasing ankle injuries, strengthening lower leg muscles will help prevent chronic conditions such as shin splints and Achilles tendonitis.
+Proprioception is the body's ability to realize its place in space. If we are moving into a position that could sprain our ankles, having increased proprioception can decrease the risk by alerting us to the danger. Proprioception can also increase in our performance during our chosen sport or training regime. Proprioceptive training is done with balance exercises
+
+####   [1st Foot Fowards Balance Blog ](http://1stfootforward.co.nz/blog/rehab/Balance/)
+
 
 
 When your ankles work they’re not something you think about very often.  But when they become sprained, twisted, or otherwise weakened it becomes obvious how important they are to our mobility.  Many of those injuries can be avoided with proper preparation and many take the time and effort to strengthen their ankles. Because they know that stronger ankles mean more pressure can be applied with less risk of reduced play time.  Even if you’re not an athlete you’ll get benefits in balance and endurance from keeping your ankles strong.

@@ -13,7 +13,7 @@ featured: true
 ---
 
 
-####   [1st Foot Fowards Balance Blog ](http://1stfootforward.co.nz/blog/rehab/Balance/)
+
 
 ### Why is it important to keep the ankle strong?
 
@@ -27,7 +27,7 @@ When we perform any movement, whether it be running or jumping the ankle and sur
 In addition to decreasing ankle injuries, strengthening lower leg muscles will help prevent chronic conditions such as shin splints and Achilles tendonitis.
 Proprioception is the body's ability to realize its place in space. If we are moving into a position that could sprain our ankles, having increased proprioception can decrease the risk by alerting us to the danger. Proprioception can also increase in our performance during our chosen sport or training regime. Proprioceptive training is done with balance exercises
 
-####   [1st Foot Fowards Balance Blog ](http://1stfootforward.co.nz/blog/rehab/Balance/)
+####   [Physical Balance](http://1stfootforward.co.nz/blog/rehab/Balance/)
 
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "Ankle Strength"
 description: How to strengthen your ankles
 headline: "Are your ankles strong?"
-modified: 2017-07-16
+modified: 2017-07-22
 category: Rehab
 tags: [active, strength, health & wellness, stability, balance]
 imagefeature: mainpicankles.jpg

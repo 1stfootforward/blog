@@ -37,14 +37,14 @@ Sit on the floor and put the foam roller under your upper thighs/hamstrings. Usi
 Sit on the floor and place the roller under your right glute. Legs should be bent and your feet should be resting lightly on the ground. With one hand placed on the floor behind you. Start by rolling the roller in small circles under you, then reverse directions. When you find a tight area, put more of your body weight on the roller. Pulse up and down for a few seconds, alternating between more and less pressure. Repeat movements on the left side
 
 
-![Video of girl foam rolling her Glutes]({{ site.url }}/images/Foam Rolling/glute2.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9mUTvCMNncY" frameborder="0" allowfullscreen></iframe>
 
 
 #### Lateral Calf Muscle.
 
 Have one leg on the foam roller to start, with the other bent in front of you and your hands behind you. The foam roller should be roughly two inches above your Achilles heel. Shift back two inches so the roller moves up your side calf towards your knee, then roll it back down. Repeat on the left side.
 
-![Video of girl foam rolling her calfs]({{ site.url }}/images/Foam Rolling/calfs.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5q55J7gfjXo" frameborder="0" allowfullscreen></iframe>
 
 
 #### Quad Muscle.
@@ -52,7 +52,7 @@ Have one leg on the foam roller to start, with the other bent in front of you an
 Lie face down on the floor. Place a foam roller under your upper thighs to your legs, you should be balancing on your forearms with your core engaged. Begin by rolling two inches to the front of the mat and then two inches to the back. 
 
 
-![Video of girl foam rolling her Quads]({{ site.url }}/images/Foam Rolling/quad2.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/THCgGsQVvSE" frameborder="0" allowfullscreen></iframe>
 
 
 #### Hamstrings.
@@ -60,7 +60,7 @@ Lie face down on the floor. Place a foam roller under your upper thighs to your 
 Sit on the Floor and plave your hamstrings on top of the foam roller, with your hands behind you for support lift your bottom of the ground. Roll forwards then back for as long as you need.
 
 
-![Video of girl foam rolling her Hamstrings]({{ site.url }}/images/Foam Rolling/hamstring.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywUCwEbB85U" frameborder="0" allowfullscreen></iframe>
 
 
 ### Benefits of foam rolling:

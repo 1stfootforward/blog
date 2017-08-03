@@ -17,7 +17,7 @@ featured: true
 
 When we think of homemade food, we tend to believe it to be healthy, and for the most part, it is but when we use store bought staple items and add them to our homemade food it can dramatically change the nutrition level of your food. The key to maintaining a healthy diet comes down to the types of foods and ingredients you use in your cooking. By being equipped with the right foods, you can find it so much easier to eat healthily
 
-### Below are some items to consider and alternatives to using instead.
+## Below are some items to consider and alternatives to use instead.
 
 
 

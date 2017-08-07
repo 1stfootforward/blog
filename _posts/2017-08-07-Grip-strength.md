@@ -56,7 +56,7 @@ Put together any combination of conventional Olympic plates, squeeze them togeth
 
 Using the pull up bar in the gym, hold on to it, bring your feet off the ground. Hold for as long as you can. Rest one minute, then repeat for a total of three sets.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uYY0QsyACtw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCfKuuC3ZBg" frameborder="0" allowfullscreen></iframe>
 
 ##### Grippers: 
 

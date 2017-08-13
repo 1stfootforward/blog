@@ -23,7 +23,7 @@ Below are 6 of my top smoothie ideas and tips to help you get the best out of yo
 
 #### Fresh vs Frozen.
 
-We all know fresh is best, but when looking for fresh berries in the middle of winter can be hard to do. Don’t worry about it, frozen fruit is not only more accessible but a time more affordable and really convenient. Also acts as ice to make your smoothie super cold. 
+We all know fresh is best, but when looking for fresh berries in the middle of winter can be hard to do. Don’t worry about it, frozen fruit is not only more accessible but at times more affordable and really convenient. Also acts as ice to make your smoothie super cold. 
 
 ![Picture of 2 fresh smoothies]({{ site.url }}/images/smoothie-hacks/freshsmoothies.jpeg)
 
@@ -32,7 +32,6 @@ We all know fresh is best, but when looking for fresh berries in the middle of w
 Having fresh raw greens in the fridge and running out of time to use them that week? Take your dark leafy greens or any other vegetable that you have in the fridge and wash, chop, and store in a large freezer safe bag or airtight glass container to make your own frozen vegetables. Kale and Spinach are ones that I will often freeze, and it’s an easy way to add more fiber and greens to any smoothie. 
 This can also be done with the end of your milk, pour any left over liquids like milk, coconut milk, tea or coffee into ice cube trays for easy to use portions at a later date. 
 
-![Picture of 2 fresh smoothies]({{ site.url }}/images/smoothie-hacks/freshsmoothies.jpeg)
 
 #### Plan Ahead.
 

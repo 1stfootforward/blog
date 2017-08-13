@@ -6,7 +6,7 @@ headline: "Smoothie Hacks!"
 modified: 2017-08-13
 category: Diet
 tags: [Smoothies, Tips, Healtyh and Wellbeing]
-imagefeature: chocolate-2349917__340.jpg
+imagefeature: smoothiemain.jpg
 mathjax: 
 chart:
 featured: true

@@ -48,7 +48,7 @@ Check out the link below for the fruit and vegetable seasons in New Zealand.
 
 #### Buy frozen.
 
-The frozen veggies and fruits with nothing added to them, are just as good as fresh especially when they are out of season. Meaning you can drink your favourite strawberry smoothie all year round
+The frozen veggies and fruits with nothing added to them, are just as good as fresh especially when they are out of season. Meaning you can drink your favourite strawberry smoothie all year round.
 
 ![Picture of frozen berries]({{ site.url }}/images/Healthy-Eating-on-a-Budget/frozen-berries.jpg)
 

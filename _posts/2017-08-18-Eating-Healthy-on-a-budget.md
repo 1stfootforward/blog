@@ -26,7 +26,7 @@ Beans, lentils, legumes, pulses are fantastic ways to bulk up any meal in terms 
 
 You should buy in bulk as often as possible. At first, you may think you’re spending a lot of money, but when you breakdown the costs per serving, you’re actually saving money in the long term. For example, I always buy spirulina, chia seeds, hemp seeds, and other “superfoods” in bulk. This principle can also be applied to your beans, grains, and other produce items as well. Also cooking in bulk or large batches will not only save you a tremendous amount of time for the week ahead, but it can also help you prepare meals using all your bulk purchased items for later by simply freezing.
 
-![Picture of Bulk food items]({{ site.url }}/images/BULK-BUYS.jpg/Healthy-Eating-on-a-Budget)
+![Picture of Bulk food items]({{ site.url }}/images/Healthy-Eating-on-a-Budget/BULK-BUYS.jpg)
 
 #### Shop around.
 
@@ -36,21 +36,21 @@ Yes this does take time, however if you can visit wholesale stores and your loca
 
 If you can’t buy it, try to grow it! Growing gardens, whether personal gardens or communal gardens, is a great way to have local, seasonal, and healthy food right at your fingertips. It also is a great teaching/learning experience for everyone in the family.
 
-![Picture of my garden]({{ site.url }}/images/my-garden.jpg/Healthy-Eating-on-a-Budget)
+![Picture of my garden]({{ site.url }}/images/Healthy-Eating-on-a-Budget/my-garden.jpg)
 
 #### Buy in season.
 
 Remember the season! Trying to get strawberries in the dead of winter is quite expensive in comparison to purchasing them when they’re perfectly ripe and local to your region in the summer. 
 Check out the link below for the fruit and vegetable seasons in New Zealand.
 
-####   [Vegetables.co.nz's vegetable season availability Site ](http://www.vegetables.co.nz/tips-and-advice/seasonal-availability/)
+####   [Vegetables.co.nz's vegetable season availability](http://www.vegetables.co.nz/tips-and-advice/seasonal-availability/)
 
 
 #### Buy frozen.
 
 The frozen veggies and fruits with nothing added to them, are just as good as fresh especially when they are out of season. Meaning you can drink your favourite strawberry smoothie all year round
 
-![Picture of frozen berries]({{ site.url }}/images/frozen-berries.jpg/Healthy-Eating-on-a-Budget)
+![Picture of frozen berries]({{ site.url }}/images/Healthy-Eating-on-a-Budget/frozen-berries.jpg)
 
 #### Use nuts and seeds.
 
@@ -60,5 +60,4 @@ Start cooking with nuts and seeds. Not only are they calorically dense, but they
 
 Preparing meal ideas for the week ahead not only saves you time, but can help save you money by purchasing only the necessary ingredients you need. Prioritize the foods and items you need by making a list before you leave the house. This helps cut down on impulse buys and keeps you on track with the meals you’ve planned!
 
-
-![Picture of book ready to plan]({{ site.url }}/images/planning.jpg/Healthy-Eating-on-a-Budget)
+![Picture of book ready to plan]({{ site.url }}/images/Healthy-Eating-on-a-Budget/planning.jpg)

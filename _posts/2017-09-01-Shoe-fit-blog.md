@@ -40,7 +40,7 @@ If you go to training or the gym and come home with aching feet this could be a 
 
 +	Sore Toes.
 
-	You should be able to wiggle your toes when you are wearing your sneakers so buying shoes remember to always make sure you have a little bit of space between your toes and the start of the shoes. If you have ever felt pain in your toes after walking or running this could be a sign your toe box in your shoes are too small putting pressure on your toes causing pain and discoloration of your toenails. Different sorts of sorts affect how the shoe fits as well as your feet tend to swell as the day goes on.
+	You should be able to wiggle your toes when you are wearing your sneakers so buying shoes remember to always make sure you have a little bit of space between your toes and the start of the shoes. If you have ever felt pain in your toes after walking or running this could be a sign your toe box in your shoes are too small putting pressure on your toes causing pain and discoloration of your toenails. Different sorts of socks affect how the shoe fits as well as your feet tend to swell as the day goes on.
 
 ![Picture of girl with running shoes]({{ site.url }}/images/Shoes-bestfit/sore-ankles.jpeg)
 

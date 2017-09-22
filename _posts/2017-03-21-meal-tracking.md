@@ -5,7 +5,7 @@ description: Why you should start tracking your diet and workouts right now!
 headline: "Meal & Exercise Tracking"
 modified: 2017-03-21
 category: Lifestyle
-tags: [Diet, Health, Lifestyle, Exercise]
+tags: [Diet, Health, Lifestyle, Exercise, tracking, journal]
 imagefeature: meal-prep.jpg
 mathjax: 
 chart:

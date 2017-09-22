@@ -4,7 +4,7 @@ title: "Weightlifting During Your Sport Season"
 description: Although Lifting weights during on season could seem like an impossible task here are some tips and benefit’s to help you out
 headline: "Weightlifting During Your Sport Season"
 modified: 2016-04-29
-category: sports
+category: Weight-training
 tags: [weightlifting, sport]
 imagefeature: sports.jpg
 mathjax: 

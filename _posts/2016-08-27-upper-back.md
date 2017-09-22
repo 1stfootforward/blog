@@ -4,7 +4,7 @@ title: "Upper Back Pain"
 description: Solutions for Upper Back Pain
 headline: "Upper Back Pain"
 modified: 2016-08-27
-category: rehab
+category: Rehab
 tags: [rehab, Stretch]
 imagefeature: upper-back.jpg
 mathjax: 

@@ -4,7 +4,7 @@ title: "Solutions for Tight Shoulders"
 description: Solutions for Tight Shoulders
 headline: "Solutions for Tight Shoulders"
 modified: 2016-10-25
-category: rehab
+category: Rehab
 tags: [rehab, Stretch]
 imagefeature: shoulders.jpg
 mathjax: 

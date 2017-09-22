@@ -4,7 +4,7 @@ title: "Fruit and Vegetable wastage"
 description: How to minimize you Fruit and Vegetable wastage
 headline: "Fruit and Vegetable wastage"
 modified: 2017-06-09
-category: Nutrition
+category: Lifestyle
 tags: [Health, wellbeing, Diet]
 imagefeature: mainpic-fruitandvege.png
 mathjax: 

@@ -4,8 +4,8 @@ title: "Food Staple Mistakes"
 description: Are your pantry staples affecting your efforts in the gym?
 headline: "Pantry Staples that could be hindering your results!"
 modified: 2017-08-04
-category: Diet
-tags: [Food staples, eating well, good choices]
+category: Lifestyle
+tags: [Food staples, eating well, good choices, pantry food]
 imagefeature: tomato-sauce.jpeg
 mathjax: 
 chart:

@@ -4,7 +4,7 @@ title: "Strengthening your Knees"
 description: Strengthening your Knees
 headline: "Strengthening your Knees"
 modified: 2017-05-25
-category: REHAB
+category: Rehab
 tags: [Health, wellbeing, Strength, Knees, rehab]
 imagefeature: sorekneesblog.png
 mathjax: 

@@ -4,7 +4,7 @@ title: "Training when Pregnant"
 description: Should I exercise during Pregnancy?
 headline: "Training when Pregnant!"
 modified: 2017-09-15
-category: training
+category: Weight-training
 tags: [pregnancy, exercise]
 imagefeature: main-pic-pregnancy.png 
 mathjax: 

@@ -5,7 +5,7 @@ description: Sitting all day is bad for your health!
 headline: "The Effects of Sitting all day!"
 modified: 2017-06-30
 category: Lifestyle
-tags: [active, health & wellness, sitting]
+tags: [active, health & wellness, sitting, office job]
 imagefeature: officespace.jpg
 mathjax: 
 chart:

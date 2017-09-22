@@ -4,7 +4,7 @@ title: "Weight Training Pros"
 description: Unsure about lifting weight? Learn what weight training can do that no other exercise can.
 headline: 
 modified: 2016-01-11
-category: Weight training
+category: Weight-training
 tags: [weights, training]
 imagefeature: w.jpg
 mathjax: 

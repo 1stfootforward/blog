@@ -4,7 +4,7 @@ title: "Cholesterol"
 description: How cholesterol effects your body
 headline: "Cholesterol"
 modified: 2017-06-07
-category: Nutrition
+category: Lifestyle
 tags: [Health, wellbeing, Diet, Cholesterol]
 imagefeature: frontpic.png
 mathjax: 

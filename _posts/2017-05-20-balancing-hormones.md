@@ -4,7 +4,7 @@ title: "Balancing your Hormones"
 description: Balancing your Hormones  
 headline: "Balancing your Hormones"
 modified: 2017-05-20
-category: Lifestye
+category: Lifestyle
 tags: [Health, wellbeing, Hormones]
 imagefeature: hormonefront.png
 mathjax: 

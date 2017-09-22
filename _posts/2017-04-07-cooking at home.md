@@ -4,7 +4,7 @@ title: "Common Cooking Mistakes"
 description: cooking at home
 headline: "Common Cooking Mistakes"
 modified: 2017-04-07
-category: Nutrition
+category: Lifestyle
 tags: [Health, wellbeing, nutrition, meal plan, Diet, Cooking at home]
 imagefeature: cookingmistakes1.jpeg
 mathjax: 

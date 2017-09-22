@@ -4,7 +4,7 @@ title: "Smoothie Hacks"
 description: Tip on how to make the best smoothie?
 headline: "Smoothie Hacks!"
 modified: 2017-08-13
-category: Diet
+category: Lifestyle
 tags: [Smoothies, Tips, Health and Wellbeing]
 imagefeature: smoothiemain.jpg
 mathjax: 

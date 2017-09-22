@@ -5,7 +5,7 @@ description: Why we need to focus on our sleep whilst training for a fitness goa
 headline: "How much sleep do you get a night?"
 modified: 2017-06-20
 category: Lifestyle
-tags: [sleep, hormones, stress]
+tags: [sleep, hormones, stress, nutrition]
 imagefeature: sleep1.jpg
 mathjax: 
 chart:

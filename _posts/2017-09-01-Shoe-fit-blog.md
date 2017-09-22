@@ -4,7 +4,7 @@ title: "Shoe Pain!"
 description: Do your shoes hurt your feet?
 headline: "Shoe Pain!"
 modified: 2017-09-01
-category: Sports
+category: Lifestyle
 tags: [Running, Cardio, shoes, orthotics, comfort]
 imagefeature: mainpic-shoes.jpg 
 mathjax: 

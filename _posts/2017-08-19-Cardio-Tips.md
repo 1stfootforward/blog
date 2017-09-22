@@ -4,7 +4,7 @@ title: "Cardio Tips!"
 description: Tips to increase your Cardio Workout!
 headline: "Cardio Tips!"
 modified: 2017-08-19
-category: Sports
+category: Weight-training
 tags: [Running, Cardio, HIIT, LISS, Health and Wellness]
 imagefeature: mainpic-cardio.jpg
 mathjax: 

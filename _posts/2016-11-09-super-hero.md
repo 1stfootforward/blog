@@ -5,7 +5,7 @@ description: Collection of workouts Actors used to prepare for their roles as su
 headline: "Superhero Workouts"
 modified: 2016-11-09
 category: Weight-training
-tags: [Weight-training, Fun, Blogroll]
+tags: [Weight-training, Fun, Blogroll, super hero]
 imagefeature: comic.jpg
 mathjax: 
 chart:

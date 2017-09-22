@@ -4,7 +4,7 @@ title: "Foam Rolling"
 description: How to benefit from using a foam roller
 headline: "What is Foam rolling and how to use one"
 modified: 2017-07-25
-category: Lifestyle
+category: Rehab
 tags: [active, health & wellness, massage, stretches]
 imagefeature: images.jpg
 mathjax: 

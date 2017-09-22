@@ -4,7 +4,7 @@ title: "Eating Healthy on a Budget!"
 description: Tips on how tho eat healthy on a budget
 headline: "Eating Healthy on a Budget!"
 modified: 2017-08-18
-category: Diet
+category: Lifestyle
 tags: [Smoothies, Tips, Health and Wellbeing]
 imagefeature: Mainpic-HEB.jpg
 mathjax: 

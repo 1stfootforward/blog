@@ -4,7 +4,7 @@ title: "Meal & Exercise Tracking"
 description: Why you should start tracking your diet and workouts right now!
 headline: "Meal & Exercise Tracking"
 modified: 2017-03-21
-category: Weight-training
+category: Lifestyle
 tags: [Diet, Health, Lifestyle, Exercise]
 imagefeature: meal-prep.jpg
 mathjax: 
@@ -23,7 +23,8 @@ Whatever your goal may be, eating and exercise habits are the two things that co
 
 Below are 5 reasons tracking, eating and exercise can be so useful. It will play a huge role, in the reaching of your goals.
 
-### YOU WILL START TO EAT LESS 
+### YOU WILL START TO EAT LESS.
+ 
 It can be very confronting writing down and later reading what food you are consuming, especially in the first few days – automatically you will try to eat less, do better as the week goes on.
 
 ![Meal Prep]({{ site.url }}/images/meal-prep/mp-1.jpg)

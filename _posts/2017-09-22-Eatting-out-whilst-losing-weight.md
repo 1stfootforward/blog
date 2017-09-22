@@ -4,7 +4,7 @@ title: "Combat eating out when trying to reach your goals"
 description: Eating Out Whilst Trying To Lose Weight
 headline: "Combat eating out when trying to reach your goals!"
 modified: 2017-09-22
-category: Diet
+category: Lifestyle
 tags: [eating out, food, restaurants, healthy habits]
 imagefeature: main-pic-eating-out.jpg
 mathjax: 

@@ -4,7 +4,7 @@ title: "Get to know me"
 description: Below is a little bit about me and how I got into Personal Training and started 1st foot forward
 headline: "Get to know me"
 modified: 2017-06-09
-category: lifestyle
+category: 1st Foot Forward
 tags: [biograpy, 1st foot forward, goals, results ]
 imagefeature: my-bio-blog1.png
 mathjax: 

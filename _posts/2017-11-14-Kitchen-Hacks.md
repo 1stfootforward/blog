@@ -6,14 +6,17 @@ headline: "Kitchen Hacks"
 modified: 2017-11-14
 category: Nutrition
 tags: [Kitchen, hacks, food prep, easy meals]
-imagefeature:mainpic-hack.jpg
+imagefeature: mainpic-hack.jpg
 mathjax: 
 chart:
 featured: true
 ---
 
+<style>
 
 
+
+</style>
 
 Despite growing health awareness, diet-related diseases are increasing. One of the greatest obstacles to eating healthy is the time needed for food preparation and the convenience of fast food.
 The question is how can we improve our diet by making tasty quick healthy meals more convenient and less time consuming to prepare?

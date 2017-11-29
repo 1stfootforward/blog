@@ -42,7 +42,7 @@ Christmas is notoriously a time to indulge, but don’t let this be the green li
 + 2 tsp. coconut oil for drizzling
 Place ingredients in a   food processor and blend to smooth. Shape into small balls. Roll into sesame seeds. Melt dark choc and coconut oil in dish in microwave for approx. 30 seconds then stir to smooth. Drizzle over balls. Store in fridge or freezer
 
-![Picture of christmas truffles]({{ site.url }}/images/Christmas-recipes/christmas-pudd.jpg)
+![Picture of christmas truffles]({{ site.url }}/images/Christmas-recipes/truffles.jpg)
 
 
 ### Chickens stuffing. 
@@ -54,7 +54,7 @@ Place ingredients in a   food processor and blend to smooth. Shape into small ba
 + 2 cloves of garlic, crushed to a paste with salt
 Preheat the oven to 180C/gas mark 4. Toast the almonds on a baking tray until golden, about 10 minutes. Allow to cool then chop and add to the other stuffing ingredients. Mix well, season with salt and plenty of freshly ground black pepper, then refrigerate
 
-![Picture of stuffing on a plate]({{ site.url }}/images/Christmas-recipes/christmas-pudd.jpg)
+![Picture of stuffing on a plate]({{ site.url }}/images/Christmas-recipes/stuffing.jpg)
 
 
 ### Natural  Mint Sauce.
@@ -65,7 +65,7 @@ Preheat the oven to 180C/gas mark 4. Toast the almonds on a baking tray until go
 
 Wash mint and tear off leaves and put in a mini blender and blend. Transfer leaves to a bowl and pour boiling water over mint leaves. Let them soak for 10 minutes Add the white vinegar Stir and place into an air tight jar in fridge until serving time. Shake before serving.
 
-![Picture of mint sauce]({{ site.url }}/images/Christmas-recipes/christmas-pudd.jpg)
+![Picture of mint sauce]({{ site.url }}/images/Christmas-recipes/mintsauce.jpg)
 
 
 ### Christmas Pudding.
@@ -90,7 +90,7 @@ Wash mint and tear off leaves and put in a mini blender and blend. Transfer leav
 Preheat oven to 190C.Grease muffin pans. Combine dates, prunes (200g), orange and water into a saucepan and bring to boil.
 Simmer for 10mins or until the water has evaporated and the dates have formed a thick paste (the oranges will still be intact, this is ok).
 
-![Picture of orange peel in a pot]({{ site.url }}/images/Christmas-recipes/christmas-pudd.jpg)
+![Picture of orange peel in a pot]({{ site.url }}/images/Christmas-recipes/orangepeel.jpg)
 
 Stir through the coconut oil and set aside to cool.
 Place the cooled date mix into a food processor and process until smooth. Transfer to a large bowl and add chopped apricots and prunes (100g), currants, almond meal, vanilla, cinnamon, allspice, clove, nutmeg and the eggs and mix well.

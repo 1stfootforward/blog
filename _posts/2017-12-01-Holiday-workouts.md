@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "7 day Holiday Work-outs"
+title: "7 days of Holiday Workouts"
 description: 7 easy body weight work-outs you can do any where!
-headline: "Holiday Work-outs"
+headline: "Holiday Workout"
 modified: 2017-11-30
 category: Exercise
 tags: [workout, body-weight, 7-days, strength, exercise]
@@ -17,15 +17,6 @@ featured: true
 
 
 </style>
-
-
-
-
-
-
-![Picture of someone stretching]({{ site.url }}/images/holiday-workouts/stretch.jpeg)
-![Picture of a lady running]({{ site.url }}/images/holiday-workouts/jogging.jpeg)
-![Picture of christmas truffles]({{ site.url }}/images/holiday-workouts/truffles.jpg)
 
 
 
@@ -59,6 +50,8 @@ Get the kids involved, and make it a fun family activity!
 
 ![Picture of kids exercising]({{ site.url }}/images/holiday-workouts/kids.jpeg)
 
+
+
 ### 2 Leg Workout!
 
 + 25 Jump squats 
@@ -67,6 +60,8 @@ Get the kids involved, and make it a fun family activity!
 + 15 Jump squats 
 + 10 Lateral lunge
 + 15 Curtsy Lunge 
+
+
 
 
 ### 3 4-Minute Busy Day Tabata Workout
@@ -78,6 +73,9 @@ When that happens, this is an awesome go-to workout—it’ll seriously get your
 + Jump Squats
 + Tricep Dips
 + Walking Lunge
+
+
+
 
 ### 4 Sore Core.
 
@@ -94,6 +92,8 @@ Remember to stretch before and after your workouts.
 ![Picture of someone stretching]({{ site.url }}/images/holiday-workouts/stretch.jpeg)
 
 
+
+
 ### 5 Upper body.
 
 12 minutes 45 seconds on 15 seconds off 4 rounds
@@ -102,6 +102,8 @@ Remember to stretch before and after your workouts.
 + Press up
 + Commando Plank
 + Crab Walk
+
+
 
 ### 6 Fat burner.
 

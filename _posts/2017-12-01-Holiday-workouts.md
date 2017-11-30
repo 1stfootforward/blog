@@ -129,5 +129,6 @@ Walking is a great way to end any day, you could also do
 ![Picture of a lady running]({{ site.url }}/images/holiday-workouts/jogging.jpeg)
 
 
-Would love to hear how you all go with this holiday workout! This time of year is full of good food and drink, so to allow of to eat guilt free is remembering to move as much as possible. I hope these workouts help you achieve your goals or help you maintain your hard work. 
+Would love to hear how you all go with this holiday workout! 
+This time of year is full of good food and drink, so to be able to eat guilt free it is important to remember to move as much as possible. I hope these workouts help you achieve your goals or help you maintain all your hard work. 
 Hope you all have a Safe and Happy holiday break! Thanks Heather

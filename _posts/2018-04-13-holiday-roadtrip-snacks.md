@@ -22,9 +22,10 @@ featured: true
 
 
 
-With the school holidays coming up that usually means road trips! Yyou'are going to be in the car for awhile so theres a good chance you will get hungry. Whilst stopping at a takeaway shop or going through a drive through is very tempting it makes it to easy to over do it on those not so healthy options. 
+With the school holidays coming up that usually means road trips! You're going to be in the car for awhile so theres a good chance you will get hungry. Whilst stopping at a takeaway shop or going through a drive through is very tempting it makes it to easy to over do it on those not so healthy options. 
 
-#### So get prepared and pack some healthy options to take with you my favourites are below. 
+#### So get prepared and pack some healthy options to take with you. 
+#### My favourites are below. 
 
 
 ### Trail Mix.
@@ -35,12 +36,12 @@ You can buy already made trail mix/ scroogen or make it your self try some of th
 +	Almonds, apricots, sunflower seeds 
 +	Cashews, dried mango, coconut flakes, banana chips 
 +	Goji  berries, pistachios, dried blueberries, flax seeds, dark chocolate 
-+===Almonds, Wasabi peas, sesame seeds, dried ginger 
++   Almonds, Wasabi peas, sesame seeds, dried ginger 
 +	Peanuts, banana chips, dark chocolate 
 
 ![Picture of trail-mix]({{ site.url }}/images/holiday-roadtrip-snacks/trailmix.jpg)
 
-Play around with different combinations to find your favourite. 
+#### Play around with different combinations to find your favourite. 
 
 ### Fresh fruit and vegetables.
 

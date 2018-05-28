@@ -41,7 +41,7 @@ This is different from the above 2 because you aren’t really fasting. Again yo
 
 Despite what you may think, intermittent fasting is actually fairly easy to do. Many people report feeling better and having more energy during a fast. Hunger is usually not that big of an issue, although it can be a problem in the beginning, while your body is getting used to not eating for extended periods of time. No food is allowed during the fasting period, but you can drink water, coffee, tea and other non-caloric beverages. 
 
-![Picture of a cup of tea]({{ site.url }}/Intermittent-fasting/cup-of-tea.jpg)
+![Picture of a cup of tea]({{ site.url }}/images/Intermittent-fasting/cup-of-tea.jpg)
 
 
 ## Why Fast? 
@@ -56,7 +56,7 @@ When fasting, we get significant reductions in blood sugar and insulin levels, a
 Others do it for the metabolic health benefits, as it can improve various different risk factors and health markers. 
 
 
-![Picture of an hour glass]({{ site.url }}/Intermittent-fasting/hour-glass.jpg)
+![Picture of an hour glass]({{ site.url }}/images/Intermittent-fasting/hour-glass.jpg)
 
 
 There is also some evidence that intermittent fasting can help you live longer. Studies in rodents show that it can extend lifespan as effectively as calorie restriction. 

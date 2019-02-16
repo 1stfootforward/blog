@@ -5,7 +5,7 @@ description:  Why Food is so important when fueling our bodies
 headline: "Food for Fuel"
 modified: 2019-02-15
 category: Nutrition
-tags: [desserts, treats, Christmas, healthy]
+tags: [Food, Fuel, Nutrition, lifestyle, Healthy]
 imagefeature: main-food-fuel.jpg
 mathjax: 
 chart:

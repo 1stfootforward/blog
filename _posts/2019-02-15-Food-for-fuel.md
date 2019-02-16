@@ -39,7 +39,7 @@ As a fitness and nutrition professional, I get to work with people from all walk
 
 Well, guess what? Nine times out of 10, the common problem is that my clients do not eat enough quality food.
 
-![picture of grains]({{ site.url }}/images/Food-for-fuel/cereal-fuel1.jpg) 
+![picture of grains]({{ site.url }}/images/food-fuel/cereal-fuel1.jpg) 
 
 ### Why is food so important.
 
@@ -48,7 +48,7 @@ Like any finely-tuned machine, clean and constant fuel, in our case, food, in th
 There are basic generalizations to be made about humans as biological beings, about how our systems operate, and how we will react under certain circumstances. There are also particular differences that set people apart, that often need to be addressed on a case-by-case situation.
 Food intake and nutritional programming fall into this and are by far the most common challenges I see in my industry. Looking into and understanding specific nutritional needs for each person is very important. It and should be looked at on an individual basis for more focused programming. What I can say, is that most people are not eating enough food, particularly protein, to help them maintain a healthy state of existence, let alone an exercise regimen.
 
-![picture of a girl balancing]({{ site.url }}/images/Food-for-fuel/balance-fuel4.jpg)
+![picture of a girl balancing]({{ site.url }}/images/food-fuel/balance-fuel4.jpg)
 
 ### Contradiction with advice.
 
@@ -67,7 +67,7 @@ Keep it simple. Look at your food consumption habits, keep a food diary for one 
 If you answered no to any of these, you need to make some changes in your nutritional lifestyle. If you are interested in being more vibrant, having more energy, optimizing your workouts, or losing weight, you must work on your relationship with food. It's not rocket science, but it will take a little time, patience and perhaps tapping into some resources to create change.
 
 
-![picture of a girl jumping]({{ site.url }}/images/Food-for-fuel/active-fuel3.jpg) 
+![picture of a girl jumping]({{ site.url }}/images/food-fuel/active-fuel3.jpg) 
 
 ##### Try 1st Foot Forwards 8week Challenge to help you get started.
 

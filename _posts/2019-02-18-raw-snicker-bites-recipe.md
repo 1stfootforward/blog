@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Raw Snicker bites recipe"
-description:  Sweet Recipe, Sugar Free
+description:  Recipe for Raw snicker bites
 headline: "Raw Snicker Bites"
 modified: 2019-02-18
-category: Nutrition
+category: recipe
 tags: [Recipe, Raw Food, Whole food, Refined sugar free]
-imagefeature:main-snicker
+imagefeature: main-snicker
 mathjax: 
 chart:
 featured: true

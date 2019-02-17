@@ -6,7 +6,7 @@ headline: "Raw Snicker Bites"
 modified: 2019-02-18
 category: recipe
 tags: [Recipe, Raw Food, Whole food, Refined sugar free]
-imagefeature: main-snicker
+imagefeature: main-snicker.jpg
 mathjax: 
 chart:
 featured: true

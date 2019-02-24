@@ -56,6 +56,4 @@ featured: true
 It should look like this:
 
 
-![picture of split portion of cooked fatty dough]({{ site.url }}/images/fat-head-dough-recipe/split-portion.jpg)
-
 ![picture of cooked fatty dough]({{ site.url }}/images/fat-head-dough-recipe/cooked-dough.jpg)

@@ -32,7 +32,7 @@ featured: true
 
 ##### Caramel Layer:
 
-+ 1 packed Dates, diced, pitted
++ 1 cup Dates, diced, pitted
 + 2 tbsp Peanut Butter
 + 1 tsp Vanilla 
 + ¼ tsp Salt

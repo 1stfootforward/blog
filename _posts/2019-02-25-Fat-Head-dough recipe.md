@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Raw Snicker bites recipe"
-description:  Recipe for Raw snicker bites
-headline: "Raw Snicker Bites"
-modified: 2019-02-18
+title: "Fat head dough recipe"
+description:  Recipe for Fat head dough
+headline: "Fat Head Dough"
+modified: 2019-02-25
 category: recipe
-tags: [Recipe, Raw Food, Whole food, Refined sugar free]
-imagefeature: main-snicker.jpg
+tags: [Recipe, Keto, Fat, dough]
+imagefeature: fresh-dough.jpg
 mathjax: 
 chart:
 featured: true
@@ -30,48 +30,32 @@ featured: true
 
 
 
-##### Caramel Layer:
-
-+ 1 packed Dates, diced, pitted
-+ 2 tbsp Peanut Butter
-+ 1 tsp Vanilla 
-+ ¼ tsp Salt
-
-##### Nougat Layer:
-
-+ ⅔ cup Oats, blended to flour
-+ ¼ cup Date Caramel, above
-
-##### Other:
-
-+ ⅓ cup Dry Roasted Peanuts, chopped
-+ 200g dark chocolate, chopped
+### Ingredients 
++ 1 1/2 cups shredded mozzarella
++ ¾ cup almond flour
++ 2 tbs cream cheese
++ 1 egg
++ Garlic salt
++ Parchment paper and cookie sheet.
 
 
 
-![picture of the frozen snicker bar]({{ site.url }}/images/raw-snicker-bites/snickerbar.jpg)
+![picture of fresh fatty dough]({{ site.url }}/images/fat-head-dough-recipe/fresh-dough.jpg)
 
 
-+ Soak the Dates in warm water for 10 minutes. Set aside.
-+ Blend oats in a Blender for 45-60 seconds until smooth and fluffy. Remove from blender.
-+ Drain any excess liquid off of the dates (they should be relatively moist, but not dripping) and add them to the blender with the remaining ingredients for the Caramel. Blend until thick and smooth, scraping the sides of the device if necessary.
-+ Remove the Date “Caramel” from the blender. Add the Oat Flour to the blender (no need to rinse) with ¼ cup of the Date Caramel and process until well incorporated. This should form a slightly sticky “dough” that will hold together when you pinch it.
-+ Firmly and evenly press the Oat Flour Nougat into a small and narrow container (I used a loaf tin)
-+ Use a spatula to spread the remaining Date Caramel evenly over the Nougat, then sprinkle the Peanut Pieces over the Caramel. Use your fingers to press the Peanuts into the Caramel layer, so they stick.
-+ Place this in the freezer for 60-90 minutes, until firm.
-+ Remove the frozen “filling” from the container, then use a sharp knife to cut it into bar-sized pieces. Return these to the freezer while you melt your chocolate.
-+ Melt your Chocolate
-+ Place 1 bar into the bowl of melted Chocolate. Use two forks to “flip” the bar, until it is coated in chocolate on all sides. Remove the bar from the melted Chocolate, letting any excess chocolate drip off. Then, place it onto a plate lined with baking paper. Repeat with the remaining bars.
-+Place the bars in the fridge for 5-10 minutes, to allow the Chocolate to harden.
-+Serve and enjoy! Bars are best stored in the fridge and will last there for up to 10 days. You can also place them in the freezer, where they will last for up to one month – just let the bars thaw for 5 or so minutes before enjoying.
+### Method 
++ Put  mozzarella & cream cheese in a medium size  microwaveable bowl
++ Microwave for 1 min, stir and then another 30 sec, stir (very hot!)
++ Stir in egg &  almond flour
++ Wet hands and spread “dough” thin on parchment paper. It should spread evenly with dough-like consistency (if “stringy” then your cheese has hardened too much—just put it back in the microwave for maybe another 20 seconds)
++ Dock (poke rows of holes) with a fork to avoid bubbling
++ Sprinkle with garlic salt
++ Put in 200 degree oven
++ After about 8 minutes, check it and poke holes where any large bubbles may be.
++ Continue cooking for a total 12-14 min, or until slightly brown on top.
+It should look like this:
 
 
+![picture of split portion of cooked fatty dough]({{ site.url }}/images/fat-head-dough-recipe/split-portion.jpg)
 
-
-![picture of the chocolate covered snicker bites]({{ site.url }}/images/raw-snicker-bites/snickerbites.jpg)
-
-Servings 16
-Calories: 141
-Protein: 3 grams
-Fat: 6.5 grams
-Carbohydrates: 19 grams
+![picture of cooked fatty dough]({{ site.url }}/images/fat-head-dough-recipe/cooked-dough.jpg)

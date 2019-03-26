@@ -4,7 +4,7 @@ title: "Winter Motivation"
 description:  Tips for keeeping active over the winter months
 headline: "Winter Motivation"
 modified: 2019-03-28
-category: recipe
+category: lifestyle
 tags: [Winter motivation, tips, exercise, tricks]
 imagefeature: main-winter-motivation.jpg
 mathjax: 

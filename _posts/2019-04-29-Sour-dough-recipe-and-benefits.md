@@ -6,7 +6,7 @@ headline: "Sourdough recipe and benefits"
 modified: 2019-04-29
 category: Recipe
 tags: [Sourdough, benefits, protein souce]
-imagefeature:cut-sourdough-main.jpg 
+imagefeature: cut-sourdough-main.jpg 
 mathjax: 
 chart:
 featured: true
@@ -27,14 +27,6 @@ featured: true
     	}
 
 </style>
-
-
-
-
-
-
-
- 
 
 A slice of sourdough stacks up very nicely against conventional white bread in terms of protein, vitamin and mineral content, as well as the presence of prebiotics. While everything should be enjoyed in moderation, this is certainly a bread you can feel good about eating.
 

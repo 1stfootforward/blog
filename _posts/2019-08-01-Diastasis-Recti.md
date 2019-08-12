@@ -29,9 +29,6 @@ featured: true
 </style>
 
 
-
-
-
 Many clients I see are really keen to get back into shape and exercise after having baby, but steps should be taken to protect the pelvic floor and core prior to engaging in any high impact or high intensity exercise.
 
 

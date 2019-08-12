@@ -29,7 +29,6 @@ featured: true
 </style>
 
 
-
 Calcium is an important mineral that needs to be carefully considered, especially for women over 50.
 
 You may not be getting enough. Did you know the recommended daily intake (RDI) for women over 50 is 1300 mg a day?

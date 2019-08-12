@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diastasis Recti"
-description:What is Diastasis Recti, and how to traet it.
+description: What is Diastasis Recti, and how to treat it.
 headline: "What is Diastasis Recti?"
 modified: 2019-08-01
 category: Rehab
